@@ -1,0 +1,4109 @@
+{
+  "total": 341,
+  "with_still": 196,
+  "series": [
+    {
+      "id": "AG",
+      "name": "A–G Code Samples",
+      "count": 26
+    },
+    {
+      "id": "M",
+      "name": "M Motion Styles",
+      "count": 40
+    },
+    {
+      "id": "K",
+      "name": "K Cartoon Styles",
+      "count": 38
+    },
+    {
+      "id": "Z",
+      "name": "Z Chinese Style",
+      "count": 15
+    },
+    {
+      "id": "H",
+      "name": "H Ready Layouts",
+      "count": 12
+    },
+    {
+      "id": "L",
+      "name": "L Lemo-Opuscar",
+      "count": 59
+    },
+    {
+      "id": "V",
+      "name": "V mg-styles-15",
+      "count": 15
+    },
+    {
+      "id": "X",
+      "name": "X code-video",
+      "count": 31
+    },
+    {
+      "id": "R",
+      "name": "R Learned From References",
+      "count": 7
+    },
+    {
+      "id": "O",
+      "name": "O Oscar 98 Films",
+      "count": 98
+    }
+  ],
+  "entries": [
+    {
+      "id": "A1",
+      "name": "Word Rain",
+      "series": "AG",
+      "category": "A Words",
+      "description": "Words fall like rain, piling up higher and higher.",
+      "fit": "Being lectured at, repeated words, pressure",
+      "tags": [
+        "word rain",
+        "falling",
+        "piling up"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/A1_Word_Rain.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/A1_Word_Rain.jpg"
+    },
+    {
+      "id": "A2",
+      "name": "Cursor Typing",
+      "series": "AG",
+      "category": "A Words",
+      "description": "A cursor on a black background, typing one character at a time, then deleting it.",
+      "fit": "Words you cannot say out loud, an inner monologue",
+      "tags": [
+        "typing",
+        "cursor",
+        "deleting"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/A2_Cursor_Typing.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/A2_Cursor_Typing.jpg"
+    },
+    {
+      "id": "A3",
+      "name": "Big Words Hit Hard",
+      "series": "AG",
+      "category": "A Words",
+      "description": "Words slam into the frame one by one, on the beat.",
+      "fit": "Emotional outbursts, pull-quotes, an MV chorus",
+      "tags": [
+        "big words",
+        "slamming down",
+        "on the beat"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/A3_Big_Words_Hit_Hard.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/A3_Big_Words_Hit_Hard.jpg"
+    },
+    {
+      "id": "A4",
+      "name": "Word Tunnel",
+      "series": "AG",
+      "category": "A Words",
+      "description": "Characters form ring after ring as the camera dives inward.",
+      "fit": "Not being able to figure something out, thinking deeper and deeper",
+      "tags": [
+        "tunnel",
+        "spinning",
+        "diving inward"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/A4_Word_Tunnel.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/A4_Word_Tunnel.jpg"
+    },
+    {
+      "id": "A5",
+      "name": "Words Scatter, Then Gather",
+      "series": "AG",
+      "category": "A Words",
+      "description": "A sentence scatters into particles and gathers into a different sentence.",
+      "fit": "A change of mind, a different way of seeing it",
+      "tags": [
+        "scattering",
+        "gathering",
+        "becoming"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/A5_Words_Scatter_Then_Gather.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/A5_Words_Scatter_Then_Gather.jpg"
+    },
+    {
+      "id": "B1",
+      "name": "Flowing Threads",
+      "series": "AG",
+      "category": "B Particles",
+      "description": "Countless fine threads drift on an invisible wind.",
+      "fit": "Thoughts, feelings in flow, calming down",
+      "tags": [
+        "flowing",
+        "threads",
+        "wind"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/B1_Flowing_Threads.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/B1_Flowing_Threads.jpg"
+    },
+    {
+      "id": "B2",
+      "name": "Firefly Dust",
+      "series": "AG",
+      "category": "B Particles",
+      "description": "Warm points of light drift slowly upward, some near, some far.",
+      "fit": "Warmth, memories, finding the light again",
+      "tags": [
+        "fireflies",
+        "light dust",
+        "warm"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/B2_Firefly_Dust.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/B2_Firefly_Dust.jpg"
+    },
+    {
+      "id": "B3",
+      "name": "Particle Convergence",
+      "series": "AG",
+      "category": "B Particles",
+      "description": "Particles gather into a heart, a house, a person — then scatter again.",
+      "fit": "Talking about something concrete: home, relationships, a person",
+      "tags": [
+        "gathering into form",
+        "shapes",
+        "scattering"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/B3_Particle_Convergence.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/B3_Particle_Convergence.jpg"
+    },
+    {
+      "id": "B4",
+      "name": "Starry Connections",
+      "series": "AG",
+      "category": "B Particles",
+      "description": "Points connect into a net, and the warm one in the middle is you.",
+      "fit": "Relationships between people, connection, loneliness",
+      "tags": [
+        "constellations",
+        "connecting lines",
+        "nets"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/B4_Starry_Connections.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/B4_Starry_Connections.jpg"
+    },
+    {
+      "id": "B5",
+      "name": "Breathing Circle",
+      "series": "AG",
+      "category": "B Particles",
+      "description": "A cloud of particles swells and shrinks with each breath.",
+      "fit": "Soothing, slowing down, meditation",
+      "tags": [
+        "breathing",
+        "swelling and shrinking",
+        "slow"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/B5_Breathing_Circle.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/B5_Breathing_Circle.jpg"
+    },
+    {
+      "id": "C1",
+      "name": "Ink Bloom",
+      "series": "AG",
+      "category": "C Lines & Ink",
+      "description": "Ink blooms in blotches across rice paper.",
+      "fit": "A Chinese feel, memories, sorrow",
+      "tags": [
+        "ink wash",
+        "blooming",
+        "rice paper"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/C1_Ink_Bloom.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/C1_Ink_Bloom.jpg"
+    },
+    {
+      "id": "C2",
+      "name": "One-Stroke Drawing",
+      "series": "AG",
+      "category": "C Lines & Ink",
+      "description": "A single line slowly draws mountains, the sun, and a small figure.",
+      "fit": "Sketching the outline of a person or an event",
+      "tags": [
+        "one-stroke drawing",
+        "line art",
+        "growing"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/C2_One_Stroke_Drawing.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/C2_One_Stroke_Drawing.jpg"
+    },
+    {
+      "id": "C3",
+      "name": "Contour Lines of the Heart",
+      "series": "AG",
+      "category": "C Lines & Ink",
+      "description": "Like contour lines on a map, always rising and falling.",
+      "fit": "Emotional ups and downs, the terrain of the heart",
+      "tags": [
+        "contour lines",
+        "terrain",
+        "rising and falling"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/C3_Contour_Lines_Of_The_Heart.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/C3_Contour_Lines_Of_The_Heart.jpg"
+    },
+    {
+      "id": "C4",
+      "name": "Ripples",
+      "series": "AG",
+      "category": "C Lines & Ink",
+      "description": "A drop falls, and ripples spread outward ring by ring.",
+      "fit": "The impact of a single sentence, its aftershocks",
+      "tags": [
+        "ripples",
+        "water drops",
+        "spreading"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/C4_Ripples.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/C4_Ripples.jpg"
+    },
+    {
+      "id": "D1",
+      "name": "Rainy Window",
+      "series": "AG",
+      "category": "D Light & Weather",
+      "description": "Raindrops on glass, with blurred night lights behind them.",
+      "fit": "Waiting, nighttime, longing",
+      "tags": [
+        "rainy window",
+        "night",
+        "blurred lights"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/D1_Rainy_Window.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/D1_Rainy_Window.jpg"
+    },
+    {
+      "id": "D2",
+      "name": "Window Light and Dust",
+      "series": "AG",
+      "category": "D Light & Weather",
+      "description": "A beam of light comes through the window, dust drifting in it.",
+      "fit": "Quiet, time, an old house",
+      "tags": [
+        "window light",
+        "dust",
+        "light beam"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/D2_Window_Light_And_Dust.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/D2_Window_Light_And_Dust.jpg"
+    },
+    {
+      "id": "D3",
+      "name": "Snow and Embers",
+      "series": "AG",
+      "category": "D Light & Weather",
+      "description": "Snow falls while a few sparks drift upward.",
+      "fit": "Farewells, endings, a little warmth in the cold",
+      "tags": [
+        "snow",
+        "embers",
+        "drifting up"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/D3_Snow_And_Embers.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/D3_Snow_And_Embers.jpg"
+    },
+    {
+      "id": "D4",
+      "name": "Daybreak",
+      "series": "AG",
+      "category": "D Light & Weather",
+      "description": "The sky warms slowly from deep blue as the sun rises.",
+      "fit": "Endings, hope, starting over",
+      "tags": [
+        "sunrise",
+        "gradient",
+        "daybreak"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/D4_Daybreak.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/D4_Daybreak.jpg"
+    },
+    {
+      "id": "E1",
+      "name": "Minimal Geometry",
+      "series": "AG",
+      "category": "E Shapes & Paper",
+      "description": "Circles, squares, and semicircles roll, drop, and grow on solid colors.",
+      "fit": "Making something complicated clear",
+      "tags": [
+        "geometry",
+        "flat",
+        "color blocks"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/E1_Minimal_Geometry.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/E1_Minimal_Geometry.jpg"
+    },
+    {
+      "id": "E2",
+      "name": "Layered Paper Cut",
+      "series": "AG",
+      "category": "E Shapes & Paper",
+      "description": "Layered paper cutouts with shadows, moving fast in front and slow behind.",
+      "fit": "Childhood, stories, gentle passages",
+      "tags": [
+        "paper cutting",
+        "paper pieces",
+        "layering"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/E2_Layered_Paper_Cut.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/E2_Layered_Paper_Cut.jpg"
+    },
+    {
+      "id": "E3",
+      "name": "ASCII Art",
+      "series": "AG",
+      "category": "E Shapes & Paper",
+      "description": "The whole picture is made of characters, like an old computer screen.",
+      "fit": "Technology, coldness, fragments of memory",
+      "tags": [
+        "ASCII art",
+        "terminal",
+        "pixels"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/E3_ASCII_Art.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/E3_ASCII_Art.jpg"
+    },
+    {
+      "id": "F1",
+      "name": "Growing Charts",
+      "series": "AG",
+      "category": "F Explainers",
+      "description": "Bars grow one by one, numbers tick upward, then connect into a line.",
+      "fit": "Presenting data, research findings",
+      "tags": [
+        "charts",
+        "numbers",
+        "growth"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/F1_Growing_Charts.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/F1_Growing_Charts.jpg"
+    },
+    {
+      "id": "F2",
+      "name": "Relationship Map",
+      "series": "AG",
+      "category": "F Explainers",
+      "description": "Arrows between people are drawn one by one, each carrying the words that were said.",
+      "fit": "Family relationships, cause and effect",
+      "tags": [
+        "nodes",
+        "arrows",
+        "relationship map"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/F2_Relationship_Map.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/F2_Relationship_Map.jpg"
+    },
+    {
+      "id": "F3",
+      "name": "Split-Screen Contrast",
+      "series": "AG",
+      "category": "F Explainers",
+      "description": "Before on the left, now on the right, one line down the middle.",
+      "fit": "Then and now, parents and children",
+      "tags": [
+        "split screen",
+        "contrast",
+        "left and right"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/F3_Split_Screen_Contrast.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/F3_Split_Screen_Contrast.jpg"
+    },
+    {
+      "id": "G1",
+      "name": "Old Film",
+      "series": "AG",
+      "category": "G Texture",
+      "description": "Grain, flicker, scratches, light leaking in at the edges.",
+      "fit": "Memories, old times, one consistent texture for the whole film",
+      "tags": [
+        "film",
+        "grain",
+        "light leaks"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/G1_Old_Film.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/G1_Old_Film.jpg"
+    },
+    {
+      "id": "G2",
+      "name": "Signal Glitch",
+      "series": "AG",
+      "category": "G Texture",
+      "description": "The picture slips out of alignment, colors split apart, then a sudden flash.",
+      "fit": "Breaking down, chaos, being cut off mid-sentence",
+      "tags": [
+        "glitch",
+        "misalignment",
+        "interference"
+      ],
+      "file": "assets/library/style-prompts/A-G_Code_Samples/G2_Signal_Glitch.md",
+      "image": "assets/library/style-prompts/A-G_Code_Samples/G2_Signal_Glitch.jpg"
+    },
+    {
+      "id": "M1",
+      "name": "Whiteboard Hand-Drawn Explainer",
+      "series": "M",
+      "category": "Explainer",
+      "description": "A white background, a hand (or a pen) drawing as it talks, lines drawn first, then colored in.",
+      "fit": "Passages that explain a concept or a principle. For example: \"A large language model is the brain, Harness is the hands and feet.\"",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M1_Whiteboard_Hand_Drawn_Explainer.md",
+      "image": "assets/library/style-prompts/M_Motion_Styles/M1_Whiteboard_Hand_Drawn_Explainer.jpg"
+    },
+    {
+      "id": "M2",
+      "name": "Paper Handwritten Notes",
+      "series": "M",
+      "category": "Explainer",
+      "description": "A cream paper surface; marker annotations drawn stroke by stroke, handwritten words, big bold title text, and every so often the whole frame snaps to a dark background.",
+      "fit": "Listing key points, explaining a method, \"here's how you can do it\" passages.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M2_Paper_Handwritten_Notes.md",
+      "image": ""
+    },
+    {
+      "id": "M18",
+      "name": "Math/Science Explainer (3Blue1Brown Style)",
+      "series": "M",
+      "category": "Explainer",
+      "description": "Dark background; formulas and diagrams morph and derive step by step, explained clearly.",
+      "fit": "The science-explainer line: explaining principles and data.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M18_Math_Science_Explainer_3Blue1Brown_Style.md",
+      "image": ""
+    },
+    {
+      "id": "M19",
+      "name": "Beginner-Friendly Science",
+      "series": "M",
+      "category": "Explainer",
+      "description": "Any visual style works; what matters is the approach: start from an everyday example and build up to the technical term step by step.",
+      "fit": "A whole episode on the science-explainer line, or the \"first, let's get clear on what X is\" passage on the feeling line.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M19_Beginner_Friendly_Science.md",
+      "image": ""
+    },
+    {
+      "id": "M20",
+      "name": "Timeline / History",
+      "series": "M",
+      "category": "Explainer",
+      "description": "A timeline moves forward, and at each node an event pops up.",
+      "fit": "\"How I got through these three months\", \"how AI got to where it is today\".",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M20_Timeline_History.md",
+      "image": ""
+    },
+    {
+      "id": "M21",
+      "name": "How It Works: A Teardown",
+      "series": "M",
+      "category": "Explainer",
+      "description": "Take something apart and show, step by step, how it works inside.",
+      "fit": "The announcement-grabbing example (schedule, fetch, filter, summarize, remind), explaining \"how exactly does it do that?\"",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M21_How_It_Works_Teardown.md",
+      "image": ""
+    },
+    {
+      "id": "M22",
+      "name": "Recipe-Style Steps",
+      "series": "M",
+      "category": "Explainer",
+      "description": "Like a cocktail tutorial: start from an empty glass, and every time something goes in, label its name and amount, until the finished drink.",
+      "fit": "Teaching passages like \"you only need these steps to build a small tool\".",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M22_Recipe_Style_Steps.md",
+      "image": ""
+    },
+    {
+      "id": "M23",
+      "name": "Five-Act Explainer (Universal Explainer Template)",
+      "series": "M",
+      "category": "Explainer",
+      "description": "Five shots to explain one thing.",
+      "fit": "The skeleton of a science episode, or a passage about a tool on the feeling line.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M23_Five_Act_Explainer.md",
+      "image": ""
+    },
+    {
+      "id": "M24",
+      "name": "Four-Part Launch Film",
+      "series": "M",
+      "category": "Explainer",
+      "description": "The big picture, the pain point, the fix, the payoff — four parts, ending with a logo animation.",
+      "fit": "Passages introducing a new tool or a skill.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M24_Four_Part_Launch_Film.md",
+      "image": ""
+    },
+    {
+      "id": "M8",
+      "name": "Voiceover + Word-by-Word Subtitles",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "White background, one typeface; subtitles appear word by word as the words are spoken, paired with real photos, the camera drifting slowly.",
+      "fit": "The spine of the whole film. For any video with someone explaining or talking to camera, the subtitles have to match.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M8_Voiceover_With_Word_By_Word_Subtitles.md",
+      "image": ""
+    },
+    {
+      "id": "M9",
+      "name": "Emotional Arc: Chaos, Control, Clarity",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "One arc across the whole film. It opens messy, gradually gets organized, and lands cleanly on a single sentence. Transitions morph through the same shape instead of hard cuts.",
+      "fit": "The structure for a whole episode.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M9_Emotional_Arc_Chaos_Control_Clarity.md",
+      "image": ""
+    },
+    {
+      "id": "M10",
+      "name": "Turning an Abstract Concept or Feeling into Imagery",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "No specific people or objects — a feeling is expressed through changing shapes, words, and colors.",
+      "fit": "Passages about fear, anxiety, unease, \"overthinking\", and feelings like that.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M10_Abstract_Concept_As_Imagery.md",
+      "image": ""
+    },
+    {
+      "id": "M11",
+      "name": "Life Loop",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "The same person, from childhood to old age, finally looping seamlessly back to the start.",
+      "fit": "Passages about long stretches of time, like \"learning never ends\" or \"always learning\".",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M11_Life_Loop.md",
+      "image": ""
+    },
+    {
+      "id": "M12",
+      "name": "Paper-Cut Shadow Puppetry",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "Paper-cut silhouettes performing behind the light, with soft sounds.",
+      "fit": "Passages about \"home\", memories, warmth. Works well in vertical video.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M12_Paper_Cut_Shadow_Puppetry.md",
+      "image": ""
+    },
+    {
+      "id": "M13",
+      "name": "Hand-Drawn Stop Motion, First Person",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "Hand-drawn stop motion, a little shaky frame by frame, where the things on screen speak for themselves.",
+      "fit": "Letting a thing speak for you. For example, letting \"that little announcement-grabbing tool\" introduce itself.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M13_Hand_Drawn_Stop_Motion_First_Person.md",
+      "image": ""
+    },
+    {
+      "id": "M27",
+      "name": "Dialogue-Free Short Film: Sound Tells Half the Story",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "No dialogue — the story is told entirely through picture and sound.",
+      "fit": "An intro, an outro, or a short bridge between two passages.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M27_Dialogue_Free_Short_Film.md",
+      "image": ""
+    },
+    {
+      "id": "M28",
+      "name": "Symmetrical, Warm, Cinematic Empty Shots",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "A left-right symmetrical frame in soft warm pinks, like a delicate little stage. For example, the four seasons passing outside a train window, a cup of coffee on the table.",
+      "fit": "Passages about time passing, about stopping to think. For example, \"this time away from posting\".",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M28_Symmetrical_Warm_Cinematic_Empty_Shots.md",
+      "image": ""
+    },
+    {
+      "id": "M29",
+      "name": "Sunset Sky 3D Empty Shot with One Line",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "A 3D scene: sunset, purple clouds, light reflecting on the sea, the camera flying slowly, with one short line of text on screen.",
+      "fit": "The most emotional line of all, like \"isn't right now the best time?\"",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M29_Sunset_Sky_3D_Empty_Shot_With_One_Line.md",
+      "image": ""
+    },
+    {
+      "id": "M30",
+      "name": "Eastern Mood",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "Scenes from classical poetry — a moonlit night, river waters, a pavilion, for example — optionally paired with an interactive web page.",
+      "fit": "Passages about a state of mind or about culture; also works as an intro.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M30_Eastern_Mood.md",
+      "image": ""
+    },
+    {
+      "id": "M31",
+      "name": "Clay Stop-Motion MV",
+      "series": "M",
+      "category": "Mood & Atmosphere (most used on the feeling line)",
+      "description": "Little clay figures moving frame by frame, with a strong handmade feel.",
+      "fit": "Light, playful passages; your own song could become an MV like this too.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M31_Clay_Stop_Motion_MV.md",
+      "image": ""
+    },
+    {
+      "id": "M3",
+      "name": "Word Architecture",
+      "series": "M",
+      "category": "Words & Pull-Quotes",
+      "description": "Words only. Every word has a \"structural role\": some are beams, some are pillars, some are floors. The earlier words build something up, and the final sentence \"stands\" on what they built.",
+      "fit": "The closing line: \"Learn. Believe in yourself.\" The most worthwhile passage in the whole film.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M3_Word_Architecture.md",
+      "image": ""
+    },
+    {
+      "id": "M25",
+      "name": "Lyric Beat Sync",
+      "series": "M",
+      "category": "Words & Pull-Quotes",
+      "description": "Lyrics pop out word by word, in time with the voice and the beat.",
+      "fit": "Your own song, or a sung passage in the film.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M25_Lyric_Beat_Sync.md",
+      "image": ""
+    },
+    {
+      "id": "M36",
+      "name": "Breaking the Frame",
+      "series": "M",
+      "category": "Words & Pull-Quotes",
+      "description": "Something inside a poster bursts out of the poster's frame.",
+      "fit": "Turning points like \"stepping outside the old way of thinking\" or \"no longer feeling like this has nothing to do with me\".",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M36_Breaking_The_Frame.md",
+      "image": ""
+    },
+    {
+      "id": "M4",
+      "name": "One Element Through the Whole Film",
+      "series": "M",
+      "category": "Structure & Camera (for stitching styles together)",
+      "description": "One small thing (an orange dot, a white ball) runs through every scene: first it is a switch, then the dot on a letter, then a curve, then a shape, and finally it returns at the end.",
+      "fit": "The \"thread\" when mixing styles. For example, a small dot can stand for \"an announcement\" or \"an idea\", following it from start to finish.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M4_One_Element_Through_The_Whole_Film.md",
+      "image": ""
+    },
+    {
+      "id": "M5",
+      "name": "One Continuous Shot",
+      "series": "M",
+      "category": "Structure & Camera (for stitching styles together)",
+      "description": "No cuts from start to finish; every scene \"grows\" out of the one before it.",
+      "fit": "Passages about change — for example, \"you used to push it yourself, now you sit in it and it drives itself\" — as one shot turns into another.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M5_One_Continuous_Shot.md",
+      "image": ""
+    },
+    {
+      "id": "M33",
+      "name": "From a Dot, Pull Back to the Universe",
+      "series": "M",
+      "category": "Structure & Camera (for stitching styles together)",
+      "description": "A dot on a black screen slowly opens into a scene, then keeps pulling back until the whole desktop is a dot in space, then pushes into another scene.",
+      "fit": "Talking about scale: \"from one small tool to a whole system\".",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M33_From_A_Dot_To_The_Universe.md",
+      "image": ""
+    },
+    {
+      "id": "M38",
+      "name": "One Shape Morphs All the Way Through",
+      "series": "M",
+      "category": "Structure & Camera (for stitching styles together)",
+      "description": "One shape keeps changing: a button, a loading spinner, a player, a slider, a switch… and every change is triggered by a real mouse click.",
+      "fit": "Passages that list many examples in one breath, like \"tidying spreadsheets, writing weekly reports, batch-renaming files, running a channel\".",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M38_One_Shape_Morphs_Through.md",
+      "image": ""
+    },
+    {
+      "id": "M37",
+      "name": "Logo Slowly Assembles (Intro/Outro)",
+      "series": "M",
+      "category": "Structure & Camera (for stitching styles together)",
+      "description": "Fragments slowly gather and assemble into the logo.",
+      "fit": "The intro or outro for every episode; make it once, reuse it.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M37_Logo_Assembles_Slowly.md",
+      "image": ""
+    },
+    {
+      "id": "M6",
+      "name": "Apple Keynote Style",
+      "series": "M",
+      "category": "Pacing & Fast Cuts",
+      "description": "Soft, white, bright blue, glassy textures; the camera never cuts on a still frame.",
+      "fit": "Passages that show off a tool or an interface.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M6_Apple_Keynote_Style.md",
+      "image": ""
+    },
+    {
+      "id": "M7",
+      "name": "Minimal Beat Cut",
+      "series": "M",
+      "category": "Pacing & Fast Cuts",
+      "description": "One shot, one idea; lots of empty space, a single accent color, every cut landing on the downbeat.",
+      "fit": "Fast-paced passages, like \"the spreadsheets you sort every day, the weekly reports you write…\"",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M7_Minimal_Beat_Cut.md",
+      "image": ""
+    },
+    {
+      "id": "M32",
+      "name": "Vertical Fast-Paced POV",
+      "series": "M",
+      "category": "Pacing & Fast Cuts",
+      "description": "Vertical video, very fast and choppy pacing, first-person view, packed with action and sound effects.",
+      "fit": "The opening 3 seconds of a vertical video, to grab people.",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M32_Vertical_Fast_Paced_POV.md",
+      "image": ""
+    },
+    {
+      "id": "M34",
+      "name": "News Briefing Roundup",
+      "series": "M",
+      "category": "Pacing & Fast Cuts",
+      "description": "Like a news show: item by item, each one pointing out what's interesting.",
+      "fit": "For future roundups like \"what's new in AI this week\".",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M34_News_Briefing_Roundup.md",
+      "image": ""
+    },
+    {
+      "id": "M14",
+      "name": "",
+      "series": "M",
+      "category": "Other Special Styles",
+      "description": "",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M14.md",
+      "image": ""
+    },
+    {
+      "id": "M15",
+      "name": "",
+      "series": "M",
+      "category": "Other Special Styles",
+      "description": "",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M15.md",
+      "image": ""
+    },
+    {
+      "id": "M16",
+      "name": "",
+      "series": "M",
+      "category": "Other Special Styles",
+      "description": "",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M16.md",
+      "image": ""
+    },
+    {
+      "id": "M17",
+      "name": "",
+      "series": "M",
+      "category": "Other Special Styles",
+      "description": "",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M17.md",
+      "image": ""
+    },
+    {
+      "id": "M26",
+      "name": "",
+      "series": "M",
+      "category": "Other Special Styles",
+      "description": "",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M26.md",
+      "image": ""
+    },
+    {
+      "id": "M35",
+      "name": "",
+      "series": "M",
+      "category": "Other Special Styles",
+      "description": "",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M35.md",
+      "image": ""
+    },
+    {
+      "id": "M39",
+      "name": "",
+      "series": "M",
+      "category": "Other Special Styles",
+      "description": "",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M39.md",
+      "image": ""
+    },
+    {
+      "id": "M40",
+      "name": "",
+      "series": "M",
+      "category": "Other Special Styles",
+      "description": "",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/M_Motion_Styles/M40.md",
+      "image": ""
+    },
+    {
+      "id": "K1",
+      "name": "Flat Vector",
+      "series": "K",
+      "category": "Good for 'me'",
+      "description": "Consistent line weight, flat colors with no shading, clean bright colors",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K1_Flat_Vector.md",
+      "image": "assets/library/style-prompts/K_Cartoon_Styles/K1_Flat_Vector.jpg"
+    },
+    {
+      "id": "K2",
+      "name": "Chibi",
+      "series": "K",
+      "category": "Good for 'me'",
+      "description": "Big head, small body, short limbs, big eyes, soft colors",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K2_Chibi.md",
+      "image": "assets/library/style-prompts/K_Cartoon_Styles/K2_Chibi.jpg"
+    },
+    {
+      "id": "K3",
+      "name": "Kawaii",
+      "series": "K",
+      "category": "Good for 'me'",
+      "description": "Round and plump, dot eyes, a small mouth, pink pastel colors",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K3_Kawaii.md",
+      "image": "assets/library/style-prompts/K_Cartoon_Styles/K3_Kawaii.jpg"
+    },
+    {
+      "id": "K4",
+      "name": "Minimal Line Figure",
+      "series": "K",
+      "category": "Good for 'me'",
+      "description": "A few lines make a person, against an empty background",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K4_Minimal_Line_Figure.md",
+      "image": ""
+    },
+    {
+      "id": "K5",
+      "name": "Memphis Flat People",
+      "series": "K",
+      "category": "Good for 'me'",
+      "description": "The long-limbed flat little people from big-company promo art",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K5_Memphis_Flat_People.md",
+      "image": ""
+    },
+    {
+      "id": "K6",
+      "name": "Ligne Claire Comics",
+      "series": "K",
+      "category": "Good for 'me'",
+      "description": "Even line weight, flat colors, like The Adventures of Tintin",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K6_Ligne_Claire_Comics.md",
+      "image": ""
+    },
+    {
+      "id": "K7",
+      "name": "Anime",
+      "series": "K",
+      "category": "Good for 'me'",
+      "description": "Big eyes, styled hair, clean lines, a strong cinematic feel",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K7_Anime.md",
+      "image": ""
+    },
+    {
+      "id": "K8",
+      "name": "Picture Book",
+      "series": "K",
+      "category": "Good for 'me'",
+      "description": "Soft shapes, paper texture, warm colors",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K8_Picture_Book.md",
+      "image": ""
+    },
+    {
+      "id": "K9",
+      "name": "Doodle",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Loose, crooked lines, with sketch lines still visible",
+      "fit": "Talking about \"the old me\", self-deprecating bits",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K9_Doodle.md",
+      "image": ""
+    },
+    {
+      "id": "K10",
+      "name": "Chalkboard",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Colored chalk on a black background, with the warmth of hand-drawing",
+      "fit": "Explaining ideas, popular science",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K10_Chalkboard.md",
+      "image": ""
+    },
+    {
+      "id": "K11",
+      "name": "Journal Notes",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Like a student's notes, with underlines and sticky notes",
+      "fit": "Listing methods, listing steps",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K11_Journal_Notes.md",
+      "image": ""
+    },
+    {
+      "id": "K12",
+      "name": "Newspaper Four-Panel",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Black-and-white lines, a little joke told in a few panels",
+      "fit": "Light little jokes",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K12_Newspaper_Four_Panel.md",
+      "image": ""
+    },
+    {
+      "id": "K13",
+      "name": "American Comic Halftone",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Bold lines, halftone dots, speed lines, strong contrast",
+      "fit": "Passages with a satirical edge, like ones about \"people who sell courses\"",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K13_American_Comic_Halftone.md",
+      "image": ""
+    },
+    {
+      "id": "K14",
+      "name": "Pop Art",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Bold lines, dots, speech bubbles, red, yellow, and blue",
+      "fit": "Eye-catching turning points",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K14_Pop_Art.md",
+      "image": ""
+    },
+    {
+      "id": "K15",
+      "name": "Rubber Hose 1930",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Rubber-hose limbs, pie-cut eyes, black-and-white or aged colors",
+      "fit": "Retro, playful",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K15_Rubber_Hose_1930.md",
+      "image": ""
+    },
+    {
+      "id": "K16",
+      "name": "Mid-Century Modern",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Geometric, flat, few but bold colors, like a 1950s ad",
+      "fit": "Explanations with a designed feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K16_Mid_Century_Modern.md",
+      "image": ""
+    },
+    {
+      "id": "K17",
+      "name": "Geometry",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Built from circles, squares, and triangles",
+      "fit": "Explaining structures, explaining systems",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K17_Geometry.md",
+      "image": ""
+    },
+    {
+      "id": "K18",
+      "name": "Watercolor",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Edges that bleed, paper texture, pale colors",
+      "fit": "Talking about feelings, talking about memories",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K18_Watercolor.md",
+      "image": ""
+    },
+    {
+      "id": "K19",
+      "name": "Impasto",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Visible brushstrokes, rich layers",
+      "fit": "High-emotion scenes",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K19_Impasto.md",
+      "image": ""
+    },
+    {
+      "id": "K20",
+      "name": "Paper Cut",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Layered paper cutouts with visible edges and a little shadow",
+      "fit": "Telling stories",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K20_Paper_Cut.md",
+      "image": ""
+    },
+    {
+      "id": "K21",
+      "name": "Handmade Paper Craft",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Handmade, paper-craft texture",
+      "fit": "Warm, friendly science explainers",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K21_Handmade_Paper_Craft.md",
+      "image": ""
+    },
+    {
+      "id": "K22",
+      "name": "Origami",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Folded paper",
+      "fit": "Talking about change, about \"folding\"",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K22_Origami.md",
+      "image": ""
+    },
+    {
+      "id": "K23",
+      "name": "Collage",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Torn edges, photos, mixed materials",
+      "fit": "Passages about many things mixed together",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K23_Collage.md",
+      "image": ""
+    },
+    {
+      "id": "K24",
+      "name": "Clay",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Fingerprints, handmade texture, rounded shapes",
+      "fit": "Light and playful",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K24_Clay.md",
+      "image": ""
+    },
+    {
+      "id": "K25",
+      "name": "Pixar-Style 3D",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Exaggerated proportions, big eyes, rounded shapes, great textures",
+      "fit": "A character's highlight moment",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K25_Pixar_Style_3D.md",
+      "image": ""
+    },
+    {
+      "id": "K26",
+      "name": "Toon Render 3D",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "3D models, but with hard-edged shadows and black outlines",
+      "fit": "When you want 3D but with a cartoon feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K26_Toon_Render_3D.md",
+      "image": ""
+    },
+    {
+      "id": "K27",
+      "name": "Low Poly",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "3D built from very few polygons",
+      "fit": "A tech feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K27_Low_Poly.md",
+      "image": ""
+    },
+    {
+      "id": "K28",
+      "name": "Pixel",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Blocky pixels, few colors",
+      "fit": "A game feel, retro",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K28_Pixel.md",
+      "image": ""
+    },
+    {
+      "id": "K29",
+      "name": "Blueprint",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Technical drawings, isometric view",
+      "fit": "Explaining how a tool is put together",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K29_Blueprint.md",
+      "image": ""
+    },
+    {
+      "id": "K30",
+      "name": "Instruction-Manual Line Art",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Like an IKEA manual, minimal lines",
+      "fit": "Explaining steps",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K30_Instruction_Manual_Line_Art.md",
+      "image": ""
+    },
+    {
+      "id": "K31",
+      "name": "Flat Lay",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Things laid out neatly on a tabletop, shot from above",
+      "fit": "Showing off \"my toolbox\"",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K31_Flat_Lay.md",
+      "image": ""
+    },
+    {
+      "id": "K32",
+      "name": "Building Blocks",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Building blocks like LEGO",
+      "fit": "Talking about \"a system built block by block\"",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K32_Building_Blocks.md",
+      "image": ""
+    },
+    {
+      "id": "K33",
+      "name": "Subway Map",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Like a subway map",
+      "fit": "Explaining a process, a route",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K33_Subway_Map.md",
+      "image": ""
+    },
+    {
+      "id": "K34",
+      "name": "Cyber Neon",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Dark background, neon light",
+      "fit": "Talking about the future",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K34_Cyber_Neon.md",
+      "image": ""
+    },
+    {
+      "id": "K35",
+      "name": "Old Academia",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Yellowed, sepia, the feel of an old book",
+      "fit": "Talking about history",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K35_Old_Academia.md",
+      "image": ""
+    },
+    {
+      "id": "K36",
+      "name": "Screen Print",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Overprinted colors, flat fills, slightly misaligned",
+      "fit": "Poster shots with a designed feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K36_Screen_Print.md",
+      "image": ""
+    },
+    {
+      "id": "K37",
+      "name": "Gothic",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Long and thin, sharp, black, purple, and dark red",
+      "fit": "Talking about fear, about the dark side",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K37_Gothic.md",
+      "image": ""
+    },
+    {
+      "id": "K38",
+      "name": "Sitcom",
+      "series": "K",
+      "category": "Visual Style",
+      "description": "Like The Simpsons: flat colors, minimal movement",
+      "fit": "Small scenes from everyday life",
+      "tags": [],
+      "file": "assets/library/style-prompts/K_Cartoon_Styles/K38_Sitcom.md",
+      "image": ""
+    },
+    {
+      "id": "Z1",
+      "name": "Ink Wash",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Ink wash bleeding, negative space, bamboo groves / ink wash, negative space",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z1_Ink_Wash.md",
+      "image": ""
+    },
+    {
+      "id": "Z2",
+      "name": "Gongbi",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Fine brushwork, vivid colours, peonies / gongbi, fine brushwork",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z2_Gongbi.md",
+      "image": ""
+    },
+    {
+      "id": "Z3",
+      "name": "Xieyi",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Bold, sweeping strokes — the idea lands where the brush never goes / xieyi, expressive brush",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z3_Xieyi.md",
+      "image": ""
+    },
+    {
+      "id": "Z4",
+      "name": "Shan Shui",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Magnificent mountain scenery, flowing water, an old pavilion / shan shui, mountains, pavilions",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z4_Shan_Shui.md",
+      "image": ""
+    },
+    {
+      "id": "Z5",
+      "name": "Paper Cutting",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Red paper cut open, folk patterns / Chinese paper cutting",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z5_Paper_Cutting.md",
+      "image": "assets/library/style-prompts/Z_Chinese_Style/Z5_Paper_Cutting.jpg"
+    },
+    {
+      "id": "Z6",
+      "name": "New Year Print",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Red lanterns, couplets, festive cheer / New Year woodblock print",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z6_New_Year_Print.md",
+      "image": ""
+    },
+    {
+      "id": "Z7",
+      "name": "Shadow Puppetry",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Pierced silhouettes, performed behind the light, jointed limbs that move / shadow puppetry (see M12 for the moving version)",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z7_Shadow_Puppetry.md",
+      "image": ""
+    },
+    {
+      "id": "Z8",
+      "name": "Dunhuang",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Mural colours, flying apsaras, mineral pigments / Dunhuang mural",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z8_Dunhuang.md",
+      "image": ""
+    },
+    {
+      "id": "Z9",
+      "name": "Blue And White Porcelain",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Blue flowers on a white ground, porcelain patterns / blue and white porcelain",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z9_Blue_And_White_Porcelain.md",
+      "image": ""
+    },
+    {
+      "id": "Z10",
+      "name": "Woodblock Print",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Woodcut lines, overprinted colours / woodblock print",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z10_Woodblock_Print.md",
+      "image": ""
+    },
+    {
+      "id": "Z11",
+      "name": "Peking Opera Mask",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Opera-mask patterns, bold blocks of colour / Peking opera mask",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z11_Peking_Opera_Mask.md",
+      "image": ""
+    },
+    {
+      "id": "Z12",
+      "name": "Calligraphy",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Brush characters written stroke by stroke / calligraphy stroke animation",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z12_Calligraphy.md",
+      "image": ""
+    },
+    {
+      "id": "Z13",
+      "name": "Ink Brush Comic",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Brush-line comics with ink-wash bleeding / ink-brush comic",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z13_Ink_Brush_Comic.md",
+      "image": ""
+    },
+    {
+      "id": "Z14",
+      "name": "Coloured Pencil Hand Drawing",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Coloured-pencil hatching, paper texture / colored pencil on textured paper",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z14_Coloured_Pencil_Hand_Drawing.md",
+      "image": ""
+    },
+    {
+      "id": "Z15",
+      "name": "Warm Watercolour Science Card",
+      "series": "Z",
+      "category": "Chinese Style",
+      "description": "Soft watercolour bleeding, friendly approachable shapes, made for explainer cards / warm friendly watercolor educational card",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/Z_Chinese_Style/Z15_Warm_Watercolour_Science_Card.md",
+      "image": ""
+    },
+    {
+      "id": "H1",
+      "name": "Biennale Yellow",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Warm parchment background, a sun-yellow halo, a big serif headline, indigo ink, fine lines",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H1_Biennale Yellow.md",
+      "image": "assets/library/style-prompts/H_Ready_Layouts/H1_Biennale Yellow.jpg"
+    },
+    {
+      "id": "H2",
+      "name": "BlockFrame",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Neo-brutalism, thick black borders, hard shadows, candy-color accents",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H2_BlockFrame.md",
+      "image": ""
+    },
+    {
+      "id": "H3",
+      "name": "Blue Professional",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Parchment background, cobalt blue as the main color, Space Grotesk headlines",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H3_Blue Professional.md",
+      "image": ""
+    },
+    {
+      "id": "H4",
+      "name": "Bold Poster",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Slanted script lettering in large type, cream background with red accents, magazine-cover feel",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H4_Bold Poster.md",
+      "image": ""
+    },
+    {
+      "id": "H5",
+      "name": "Broadside",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Industrial newspaper poster, cream with ink black, flame-orange accents",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H5_Broadside.md",
+      "image": ""
+    },
+    {
+      "id": "H6",
+      "name": "Capsule",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Capsule shapes, cream paper, candy colors, Bodoni serif headlines",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H6_Capsule.md",
+      "image": ""
+    },
+    {
+      "id": "H7",
+      "name": "Cartesian",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Minimalist use of empty space, warm parchment, ink-black headlines, taupe accents, fine lines",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H7_Cartesian.md",
+      "image": ""
+    },
+    {
+      "id": "H8",
+      "name": "Cobalt Grid",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Parchment with a cobalt-blue grid, Newsreader headlines",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H8_Cobalt Grid.md",
+      "image": ""
+    },
+    {
+      "id": "H9",
+      "name": "Coral",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "All-caps Bebas Neue headlines, cream background, coral color",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H9_Coral.md",
+      "image": ""
+    },
+    {
+      "id": "H10",
+      "name": "Creative Mode",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Cream background, saturated candy colors, big Archivo Black type",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H10_Creative Mode.md",
+      "image": ""
+    },
+    {
+      "id": "H11",
+      "name": "Daisy Days",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Sunny garden pastels, 3px charcoal outlines, hard shadows, rounded type",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H11_Daisy Days.md",
+      "image": ""
+    },
+    {
+      "id": "H12",
+      "name": "Editorial Forest",
+      "series": "H",
+      "category": "Ready Layouts",
+      "description": "Green, pink, and cream magazine palette, serif headlines, fine lines",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/H_Ready_Layouts/H12_Editorial Forest.md",
+      "image": ""
+    },
+    {
+      "id": "L1",
+      "name": "Caption News",
+      "series": "L",
+      "category": "Editing & Documentary",
+      "description": "In the US, 1.3 million hives of bees die in a year — yet the total is up 6%: news you can follow with the sound off.",
+      "fit": "Reads with the sound off; works in vertical",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L1_Caption_News.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L1_Caption_News.jpg"
+    },
+    {
+      "id": "L2",
+      "name": "1920s Newsreel",
+      "series": "L",
+      "category": "Editing & Documentary",
+      "description": "A 1926 newspaper said the Charleston would ruin your knees; kids at a Ford workers' picnic dance anyway.",
+      "fit": "Telling 'the old days', nostalgia",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L2_1920s_Newsreel.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L2_1920s_Newsreel.jpg"
+    },
+    {
+      "id": "L3",
+      "name": "Live Countdown Split-screen",
+      "series": "L",
+      "category": "Editing & Documentary",
+      "description": "The last minute of the Artemis II launch, uncut for a second: the grid opens from 1 to 9 tiles, ignition merges them into 1.",
+      "fit": "Comparisons and countdowns, e.g. 'three months'",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L3_Countdown_Split_Screen.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L3_Countdown_Split_Screen.jpg"
+    },
+    {
+      "id": "L4",
+      "name": "Time-lapse Symphony",
+      "series": "L",
+      "category": "Editing & Documentary",
+      "description": "A day in New York: time-lapse rivers of light, a grid stepping on sixteenth notes, 1899 beside today.",
+      "fit": "Time passing, city rhythm",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L4_Timelapse_Symphony.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L4_Timelapse_Symphony.jpg"
+    },
+    {
+      "id": "L5",
+      "name": "Visual Investigation",
+      "series": "L",
+      "category": "Editing & Documentary",
+      "description": "Newsreel, photos, testimony and the inquiry report on one timeline; five sources point to the same place.",
+      "fit": "Several sources pinned to one timeline; tracing how things came about in explainers",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L5_Visual_Investigation.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L5_Visual_Investigation.jpg"
+    },
+    {
+      "id": "L6",
+      "name": "Constructivist Montage",
+      "series": "L",
+      "category": "Editing & Documentary",
+      "description": "The Empire State Building booklet names the builders; site footage and old photos answer: 2,500 people a day.",
+      "fit": "A forceful call to action",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L6_Constructivist_Montage.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L6_Constructivist_Montage.jpg"
+    },
+    {
+      "id": "L7",
+      "name": "Sports Telestrator",
+      "series": "L",
+      "category": "Editing & Documentary",
+      "description": "Down 0–3 at half-time, Fenerbahçe score three in 12 minutes: freeze the frame, draw the lines, split screens, shot maps.",
+      "fit": "Freeze-frame line-drawing analysis, taking one moment apart",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L7_Sports_Tactics_Board.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L7_Sports_Tactics_Board.jpg"
+    },
+    {
+      "id": "L8",
+      "name": "Broadcast News Package",
+      "series": "L",
+      "category": "Editing & Documentary",
+      "description": "Four AI stories in a week, in a full TV-station package: rundown, title straps, flip-board price tables, spec cards.",
+      "fit": "A news-bulletin-style opening",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L8_TV_News_Package.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L8_TV_News_Package.jpg"
+    },
+    {
+      "id": "L9",
+      "name": "Satellite Briefing",
+      "series": "L",
+      "category": "Evidence Imagery",
+      "description": "The satellite follows the map to the Aral Sea and finds desert; only the dammed patch came back.",
+      "fit": "Talking about places and ranges",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L9_Satellite_Map_Briefing.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L9_Satellite_Map_Briefing.jpg"
+    },
+    {
+      "id": "L10",
+      "name": "Engineering Briefing Board",
+      "series": "L",
+      "category": "Evidence Imagery",
+      "description": "A river needs a bridge; four bridge types are inspected one by one on a briefing wall, and the judge is the ship that must pass under it.",
+      "fit": "Comparing several options side by side",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L10_Engineering_Options_Comparison_Wall.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L10_Engineering_Options_Comparison_Wall.jpg"
+    },
+    {
+      "id": "L11",
+      "name": "LiDAR Survey",
+      "series": "L",
+      "category": "Evidence Imagery",
+      "description": "A laser point cloud strips the tree canopy off a forest and reveals the old farm's stone walls: 3.4 km.",
+      "fit": "Tech feel, a 'scan it once' pass",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L11_Laser_Point_Cloud_Scan.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L11_Laser_Point_Cloud_Scan.jpg"
+    },
+    {
+      "id": "L12",
+      "name": "Projection on White Model",
+      "series": "L",
+      "category": "Evidence Imagery",
+      "description": "A projector brushes data layer by layer onto a white model of Rotterdam: from the 1940 void to today's towers.",
+      "fit": "Projecting data onto a white model",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L12_White_Model_Projection.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L12_White_Model_Projection.jpg"
+    },
+    {
+      "id": "L13",
+      "name": "Data Physicalization",
+      "series": "L",
+      "category": "Evidence Imagery",
+      "description": "Twelve years of wind and solar capacity stacked into physical objects, spiralling up around a dial — solar overtakes wind in 2021.",
+      "fit": "Numbers turned into a pile of real things",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L13_Data_Made_Physical.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L13_Data_Made_Physical.jpg"
+    },
+    {
+      "id": "L14",
+      "name": "Exploded Teardown",
+      "series": "L",
+      "category": "Evidence Imagery",
+      "description": "Half of an open-source keyboard comes apart layer by layer in one orbit, shows the controller, closes again, labelled with real dimensions.",
+      "fit": "Take it apart to see inside, e.g. what an AI is made of",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L14_Exploded_Diagram.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L14_Exploded_Diagram.jpg"
+    },
+    {
+      "id": "L15",
+      "name": "Microscope Story",
+      "series": "L",
+      "category": "Evidence Imagery",
+      "description": "One shot pushes from a liver-tissue slide into a single cell nucleus; two circles count out 2.4× the blue, pixel by pixel.",
+      "fit": "Zooming in layer by layer — a good fit for explainers about perception like eyes and nerves",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L15_Microscope_Story.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L15_Microscope_Story.jpg"
+    },
+    {
+      "id": "L16",
+      "name": "Archive Light Table",
+      "series": "L",
+      "category": "Evidence Imagery",
+      "description": "The telegram says the longest flight was 57 seconds; under the magnifier, the Wright brothers' negatives and archive say 59.",
+      "fit": "Digging through old material, memories",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L16_Archive_Lightbox.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L16_Archive_Lightbox.jpg"
+    },
+    {
+      "id": "L17",
+      "name": "Crayon Picture Book",
+      "series": "L",
+      "category": "Hand-Drawn & Painting",
+      "description": "The moon can't sleep, so a little girl climbs onto the roof and sings it a lullaby.",
+      "fit": "Warmth, childhood, memories",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L17_Crayon_Childrens_Picture_Book.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L17_Crayon_Childrens_Picture_Book.jpg"
+    },
+    {
+      "id": "L18",
+      "name": "Watercolor Brush",
+      "series": "L",
+      "category": "Hand-Drawn & Painting",
+      "description": "Follow the rain from Australia's red interior all the way to the green coast, painted in one take.",
+      "fit": "Emotional passages, gentle",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L18_Watercolour_Brush.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L18_Watercolour_Brush.jpg"
+    },
+    {
+      "id": "L19",
+      "name": "Chinese Ink Wash",
+      "series": "L",
+      "category": "Hand-Drawn & Painting",
+      "description": "A swordsman crosses the river on the water and cuts the current with one stroke.",
+      "fit": "Eastern mood; see also Z1 and M30",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L19_Chinese_Ink_Wash.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L19_Chinese_Ink_Wash.jpg"
+    },
+    {
+      "id": "L20",
+      "name": "Impasto Oil Painting",
+      "series": "L",
+      "category": "Hand-Drawn & Painting",
+      "description": "In a grey rainy square, the first red umbrella opens and a waltz brushes the whole square with colour.",
+      "fit": "Intense emotion",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L20_Oil_Paint_Impasto.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L20_Oil_Paint_Impasto.jpg"
+    },
+    {
+      "id": "L21",
+      "name": "One-line Drawing",
+      "series": "L",
+      "category": "Hand-Drawn & Painting",
+      "description": "One unbroken line draws a whole life, then hands the pen to a child.",
+      "fit": "One line telling it all; see also sample library C2 and M4",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L21_One_Line_Drawing.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L21_One_Line_Drawing.jpg"
+    },
+    {
+      "id": "L22",
+      "name": "Whiteboard Explainer",
+      "series": "L",
+      "category": "Hand-Drawn & Painting",
+      "description": "How your phone knows where you are: GPS, atomic clocks, and the 38 microseconds relativity adds each day.",
+      "fit": "Explaining reasons and steps — the one you sent",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L22_Whiteboard_Explainer.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L22_Whiteboard_Explainer.jpg"
+    },
+    {
+      "id": "L23",
+      "name": "Urban Sketch · Pen & Wash",
+      "series": "L",
+      "category": "Hand-Drawn & Painting",
+      "description": "The park is just a pen sketch until the wind blows a straw hat somewhere — and only there does colour appear.",
+      "fit": "Life notes, urban sketching",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L23_Pen_And_Light_Wash.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L23_Pen_And_Light_Wash.jpg"
+    },
+    {
+      "id": "L24",
+      "name": "Shadow Puppetry",
+      "series": "L",
+      "category": "Eastern Tradition",
+      "description": "Ten suns scorch the earth; Hou Yi draws his bow and shoots them down.",
+      "fit": "Storytelling; see also M12",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L24_Shadow_Puppetry.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L24_Shadow_Puppetry.jpg"
+    },
+    {
+      "id": "L25",
+      "name": "Ukiyo-e",
+      "series": "L",
+      "category": "Eastern Tradition",
+      "description": "A traveller walks toward the far mountains, every shot a woodblock print; the great wave is the climax, ending on the far mountains as the whole scroll pulls back.",
+      "fit": "Japanese style, waves",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L25_Ukiyo_e.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L25_Ukiyo_e.jpg"
+    },
+    {
+      "id": "L26",
+      "name": "Red Paper-cut",
+      "series": "L",
+      "category": "Eastern Tradition",
+      "description": "On New Year's Eve the Nian beast enters the village; a little girl's big paper-cut window flower lights up the whole village and scares it away.",
+      "fit": "New Year flavour, Chinese style",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L26_Red_Paper_Cut_Window_Flower.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L26_Red_Paper_Cut_Window_Flower.jpg"
+    },
+    {
+      "id": "L27",
+      "name": "Paper-cut Lightbox",
+      "series": "L",
+      "category": "Eastern Tradition",
+      "description": "One mooncake tells of Mid-Autumn reunion and longing, layer by layer of glowing paper-cut lightbox.",
+      "fit": "Light shining through layer by layer, warm",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L27_Paper_Sculpture_Lamp_Glow.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L27_Paper_Sculpture_Lamp_Glow.jpg"
+    },
+    {
+      "id": "L28",
+      "name": "Risograph Print",
+      "series": "L",
+      "category": "Print & Printmaking",
+      "description": "A Sunday-morning bike ride across the city: bakery, park, riverside, one more ink plate at each stop, three plates overprinted at the end.",
+      "fit": "Magazine feel, trendy",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L28_Risograph_Screen_Print.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L28_Risograph_Screen_Print.jpg"
+    },
+    {
+      "id": "L29",
+      "name": "Halftone Dossier",
+      "series": "L",
+      "category": "Print & Printmaking",
+      "description": "Fat orange tabby Orange is put under investigation: gravity tests, a 3 a.m. parkour run, and finally acquitted.",
+      "fit": "Uncovering secrets, dossiers",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L29_Vintage_Halftone_Dossier.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L29_Vintage_Halftone_Dossier.jpg"
+    },
+    {
+      "id": "L30",
+      "name": "Woodcut Print",
+      "series": "L",
+      "category": "Print & Printmaking",
+      "description": "A village spends a whole winter casting one bell; when it rings for the first time, the snow stops.",
+      "fit": "Rough, powerful",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L30_Woodcut_Print.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L30_Woodcut_Print.jpg"
+    },
+    {
+      "id": "L31",
+      "name": "Copperplate Engraving",
+      "series": "L",
+      "category": "Print & Printmaking",
+      "description": "A natural-history plate engraves itself: the burin pushes across the copper, the bee forms line by line, then hand-coloured.",
+      "fit": "Fine detail, like an illustration from an old popular-science book",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L31_Copperplate_Engraving.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L31_Copperplate_Engraving.jpg"
+    },
+    {
+      "id": "L32",
+      "name": "Silkscreen Travel Poster",
+      "series": "L",
+      "category": "Print & Printmaking",
+      "description": "Three trails, one screen-printed poster each, printed one colour at a time, then one continuous shot along the ridge from noon to dusk.",
+      "fit": "Posters, titles, covers",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L32_Screen_Printed_Travel_Poster.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L32_Screen_Printed_Travel_Poster.jpg"
+    },
+    {
+      "id": "L33",
+      "name": "Swiss Motion Graphics",
+      "series": "L",
+      "category": "Graphics & Typography",
+      "description": "A concert poster lays itself out by five rules of Swiss design — the fifth rule is to break exactly one of them.",
+      "fit": "Clean typographic layout",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L33_Swiss_Kinetic_Typography.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L33_Swiss_Kinetic_Typography.jpg"
+    },
+    {
+      "id": "L34",
+      "name": "60s Spy Title Sequence",
+      "series": "L",
+      "category": "Graphics & Typography",
+      "description": "The title sequence of an imaginary 1964 spy film: chasing a stolen key, geometric fragments finally assembling into the title.",
+      "fit": "Title sequences, suspense",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L34_60s_Spy_Titles.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L34_60s_Spy_Titles.jpg"
+    },
+    {
+      "id": "L35",
+      "name": "Art Deco",
+      "series": "L",
+      "category": "Graphics & Typography",
+      "description": "In a grand hotel in 1930, a bellboy races to deliver a letter to the top floor before midnight.",
+      "fit": "Glamour",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L35_Art_Deco.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L35_Art_Deco.jpg"
+    },
+    {
+      "id": "L36",
+      "name": "Blueprint",
+      "series": "L",
+      "category": "Graphics & Typography",
+      "description": "An inventor's blueprint draws a cloud-catching machine by itself; a revised cloud line turns into a real rain cloud.",
+      "fit": "Explaining principles and structures",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L36_Blueprint_Engineering_Drawing.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L36_Blueprint_Engineering_Drawing.jpg"
+    },
+    {
+      "id": "L37",
+      "name": "Stained Glass",
+      "series": "L",
+      "category": "Graphics & Typography",
+      "description": "Sunlight moves from morning to dusk; whichever stained-glass panel it reaches, that panel's story comes alive.",
+      "fit": "Light, solemnity",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L37_Stained_Glass_Window.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L37_Stained_Glass_Window.jpg"
+    },
+    {
+      "id": "L38",
+      "name": "Pictogram Motion",
+      "series": "L",
+      "category": "Graphics & Typography",
+      "description": "The 2026 Asian Games' 43 sports, geometric pictogram figures flashing on the beat.",
+      "fit": "Little icons on the beat, explaining steps and numbers",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L38_Pictogram_Motion_Graphics.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L38_Pictogram_Motion_Graphics.jpg"
+    },
+    {
+      "id": "L39",
+      "name": "ASCII / CRT Terminal",
+      "series": "L",
+      "category": "Graphics & Typography",
+      "description": "A lunar base's AI, woken after 40 years asleep, answers by drawing 'home' in ASCII art.",
+      "fit": "Talking about code and AI; see also sample library E3 ASCII art",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L39_ASCII_CRT_Terminal.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L39_ASCII_CRT_Terminal.jpg"
+    },
+    {
+      "id": "L40",
+      "name": "Data Storytelling",
+      "series": "L",
+      "category": "Information & Presentation",
+      "description": "A hundred years of summer temperatures — the chart itself is the story.",
+      "fit": "Telling stories with charts",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L40_Data_Storytelling.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L40_Data_Storytelling.jpg"
+    },
+    {
+      "id": "L41",
+      "name": "Isometric Infographic",
+      "series": "L",
+      "category": "Information & Presentation",
+      "description": "A cup of coffee's journey from the plantation to your hand.",
+      "fit": "One small world, one process",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L41_Isometric_Infographic.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L41_Isometric_Infographic.jpg"
+    },
+    {
+      "id": "L42",
+      "name": "Dark Tech Keynote",
+      "series": "L",
+      "category": "Information & Presentation",
+      "description": "The launch film for a fictional app, Tidy: one click puts hundreds of buried windows back in place.",
+      "fit": "Keynote feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L42_Dark_Tech_Launch.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L42_Dark_Tech_Launch.jpg"
+    },
+    {
+      "id": "L43",
+      "name": "Living Screencast",
+      "series": "L",
+      "category": "Information & Presentation",
+      "description": "Pixel sprite Clawd moves into the Claude app and demos Plan mode and self-check in a single take.",
+      "fit": "A screen recording plus an animated character, showing how 'I' use AI tools",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L43_Live_Screen_Recording_With_Character.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L43_Live_Screen_Recording_With_Character.jpg"
+    },
+    {
+      "id": "L44",
+      "name": "Sci-fi Hologram HUD",
+      "series": "L",
+      "category": "Information & Presentation",
+      "description": "An e-bike is scanned into a holographic wireframe; target boxes lock onto the battery, motor and brakes in turn.",
+      "fit": "Futuristic feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L44_Sci_Fi_Holographic_Interface.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L44_Sci_Fi_Holographic_Interface.jpg"
+    },
+    {
+      "id": "L45",
+      "name": "1930s Rubber Hose Cartoon",
+      "series": "L",
+      "category": "Cartoon & Animation",
+      "description": "A coffee cup chases a runaway sugar cube all around the kitchen.",
+      "fit": "Retro cartoons, funny",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L45_1930s_Rubber_Hose_Cartoon.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L45_1930s_Rubber_Hose_Cartoon.jpg"
+    },
+    {
+      "id": "L46",
+      "name": "80s Cel Anime",
+      "series": "L",
+      "category": "Cartoon & Animation",
+      "description": "A courier girl rides through a rain-washed neon city to deliver a cassette tape before the dawn launch.",
+      "fit": "Neon city, nostalgia",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L46_80s_Cel_Animation.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L46_80s_Cel_Animation.jpg"
+    },
+    {
+      "id": "L47",
+      "name": "Sci-Fi Sitcom Toon",
+      "series": "L",
+      "category": "Cartoon & Animation",
+      "description": "A misanthropic genius opens portals just to buy a coffee, and keeps landing in more absurd parallel universes.",
+      "fit": "Light and funny",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L47_Sci_Fi_Sitcom_Cartoon.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L47_Sci_Fi_Sitcom_Cartoon.jpg"
+    },
+    {
+      "id": "L48",
+      "name": "Mid-century Cartoon",
+      "series": "L",
+      "category": "Cartoon & Animation",
+      "description": "In the voice of a 1950s educational film, three steps teach you to assemble a robot vacuum.",
+      "fit": "The feel of an old science film; a good fit for explainers about perception",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L48_50s_Flat_Cartoon.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L48_50s_Flat_Cartoon.jpg"
+    },
+    {
+      "id": "L49",
+      "name": "16-bit Pixel RPG",
+      "series": "L",
+      "category": "Games",
+      "description": "A warrior saves before the final boss door, and the save screen flashes back through the whole adventure.",
+      "fit": "Learning like levelling up in a game",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L49_16_Bit_Pixel_RPG.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L49_16_Bit_Pixel_RPG.jpg"
+    },
+    {
+      "id": "L50",
+      "name": "HD-2D",
+      "series": "L",
+      "category": "Games",
+      "description": "The lighthouse goes out; a granddaughter carries the last cluster of fire through the night forest and up the storm cliff.",
+      "fit": "Pixels plus light and shadow, cinematic",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L50_HD_2D.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L50_HD_2D.jpg"
+    },
+    {
+      "id": "L51",
+      "name": "Microgame Frenzy",
+      "series": "L",
+      "category": "Games",
+      "description": "A trainee astronaut runs a five-second training camp, faster and faster, and the boss level lands back on Earth by hand.",
+      "fit": "Fast pace, a run of little scenes",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L51_Micro_Game_Flash.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L51_Micro_Game_Flash.jpg"
+    },
+    {
+      "id": "L52",
+      "name": "Game Show Flat",
+      "series": "L",
+      "category": "Games",
+      "description": "The history of AI as a rhythm game: models step on stage to the beat, and a report card is handed out at the end.",
+      "fit": "Variety-show feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L52_Variety_Show_Flat.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L52_Variety_Show_Flat.jpg"
+    },
+    {
+      "id": "L53",
+      "name": "1920s Silent Film",
+      "series": "L",
+      "category": "Film & Era",
+      "description": "A bakery apprentice chases a runaway loaf, and in the end splits it in two to share with a hungry little girl.",
+      "fit": "Intertitle cards, nostalgia",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L53_1920s_Silent_Film.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L53_1920s_Silent_Film.jpg"
+    },
+    {
+      "id": "L54",
+      "name": "Liminal Found Footage",
+      "series": "L",
+      "category": "Film & Era",
+      "description": "A new night-shift employee films their first night on the job: an endless yellow office space, and the staff rules on the wall.",
+      "fit": "Unease, fear of the unknown",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L54_Backrooms_New_Weird.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L54_Backrooms_New_Weird.jpg"
+    },
+    {
+      "id": "L55",
+      "name": "Brick Toy",
+      "series": "L",
+      "category": "Materials & 3D",
+      "description": "A brick astronaut builds a rocket from parts and flies to a brick moon.",
+      "fit": "Building it block by block — 'build your own system'",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L55_Building_Block_Toys.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L55_Building_Block_Toys.jpg"
+    },
+    {
+      "id": "L56",
+      "name": "Paper Pop-up Book",
+      "series": "L",
+      "category": "Materials & 3D",
+      "description": "A pop-up book opens on a desk; little sprite Pip adventures through a paper world and finally jumps out of the book.",
+      "fit": "Telling stories by turning pages",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L56_Paper_Pop_Up_Book.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L56_Paper_Pop_Up_Book.jpg"
+    },
+    {
+      "id": "L57",
+      "name": "Tilt-Shift Miniature",
+      "series": "L",
+      "category": "Materials & 3D",
+      "description": "Rush hour in a toy city — everything looks like a model.",
+      "fit": "A miniature world, looking down on everyday life",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L57_Tilt_Shift_Miniature.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L57_Tilt_Shift_Miniature.jpg"
+    },
+    {
+      "id": "L58",
+      "name": "Low-poly Isometric Island",
+      "series": "L",
+      "category": "Materials & 3D",
+      "description": "An empty sea grows an island and a village grid by grid, one note per block, until the stars come out.",
+      "fit": "Small islands, small worlds",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L58_Low_Poly_Isometric.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L58_Low_Poly_Isometric.jpg"
+    },
+    {
+      "id": "L59",
+      "name": "Glass Product Render",
+      "series": "L",
+      "category": "Materials & 3D",
+      "description": "The unboxing and close-ups of Aura, a fictional glass pair of headphones.",
+      "fit": "A premium product feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/L_Lemo-Opuscar/L59_Glass_Product.md",
+      "image": "assets/library/style-prompts/L_Lemo-Opuscar/L59_Glass_Product.jpg"
+    },
+    {
+      "id": "V1",
+      "name": "Frame-by-Frame / Line Boil",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "Hand-drawn frame-by-frame, or frame-by-frame texture layered over vector animation; its signature is line boil — lines wobbling slightly every few frames, as if the picture is 'breathing'. Studios like Giant Ant and Buck use cel elements (smoke, splashes, speed lines) all over their main animation — the core trick against digital slickness.",
+      "fit": "Hand-drawn feel, warm",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V1_Frame_By_Frame_Hand_Drawn_Wobbly_Lines.md",
+      "image": ""
+    },
+    {
+      "id": "V2",
+      "name": "Isometric 2.5D",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "A 30° isometric projection shows a miniature world: small cities, office cross-sections, data centres — no vanishing point, everything to the same scale. High information density yet still cute; the default for tech-company architecture animations and app feature demos. School of Motion has a dedicated isometric mograph tutorial series.",
+      "fit": "A small world slowly growing",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V2_Isometric_2_5D.md",
+      "image": ""
+    },
+    {
+      "id": "V3",
+      "name": "Flat Vector",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "The most mainstream baseline style in motion graphics, from the Google Material / corporate explainer tradition. Solid-colour geometric people and scenes, no outlines or minimal outlines, big blocks of clashing colour, every element a vector shape. Common in SaaS product promos, explainer videos and corporate annual-report films.",
+      "fit": "The flat \"me\" (K1)",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V3_Flat_Vector.md",
+      "image": ""
+    },
+    {
+      "id": "V4",
+      "name": "Line Art",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "A single-colour thin line is the only visual language: the line draws itself on (draw-on), extends, turns and morphs into the next shape, one stroke running through the whole film. Strong minimalist luxury; common in luxury, finance and architecture brand films and logo animations.",
+      "fit": "One line drawn onward",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V4_Line_Drawing.md",
+      "image": ""
+    },
+    {
+      "id": "V5",
+      "name": "3D Render",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "Solid, tactile animation rendered in Cinema 4D + Redshift/Octane or Blender: soft rubber, glass, metal, fabric, with clone arrays and physics simulation. The mainstream for high-end product films (phones, drinks, sneakers) and brand idents; Maxon's official Demo Reel is this style's annual bellwether.",
+      "fit": "Soft 3D — needs Blender installed",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V5_3D_Render.md",
+      "image": ""
+    },
+    {
+      "id": "V6",
+      "name": "Shape Morph",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "One shape slides continuously into another: a phone becomes a map pin, a coffee cup becomes a sunset. It is the core grammar of visual storytelling, and the part that shows the most craft in Apple keynote motion and high-end explainers.",
+      "fit": "One shape becoming 6–8 meaningful icons in a row, e.g. coffee cup → sun → sunset over the sea → seagull → paper plane → location pin → heart; see also M38",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V6_Morphing.md",
+      "image": ""
+    },
+    {
+      "id": "V7",
+      "name": "Sticker Explainer",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "PaperClip made this the standard packaging for the knowledge niche: real photos cut out and given a thick white outline to become 'stickers', laid out with flat icons and data charts on a giant canvas, the camera panning and zooming to link the information points; finance and cross-disciplinary creators like Lin Chao combine it with handwritten blackboard notes and formula cards. It is still the mainstream format for hardcore explainers, finance explainers and corporate promos.",
+      "fit": "Relaxed explaining",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V7_Sticker_Explainer.md",
+      "image": ""
+    },
+    {
+      "id": "V8",
+      "name": "Cyberpunk HUD / FUI",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "A heads-up-display package imitating sci-fi film/game interfaces: cyan-orange neon wireframes, target lock boxes, radar sweeps, small streaming data text. It is the default 'tech feel' skin in tech reviews, game edits (Cyberpunk 2077, Evangelion fan edits), military/space explainers and AI product demos; AE HUD case tutorials on Bilibili reach 200k views.",
+      "fit": "Sci-fi interfaces",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V8_Cyberpunk_Interface.md",
+      "image": ""
+    },
+    {
+      "id": "V9",
+      "name": "Collage / Cut-out",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "A retro-surreal style built by cutting up old photos, newspapers and torn paper and reassembling them, descending from Monty Python and Soviet constructivist posters. Off-balance head-to-body proportions, mouths opening on their own, and halftone dot textures are its marks. Recently merged with the 'magazine look', it has become a high-frequency style for music and street-trend short videos.",
+      "fit": "Newspaper clippings, memories",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V9_Collage_Cutout.md",
+      "image": ""
+    },
+    {
+      "id": "V10",
+      "name": "Aurora & Glassmorphism",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "Large Gaussian-blurred colour blobs (aurora/mesh gradient) drift slowly as the ground, with frosted translucent glass cards floating above. Apple's iOS 26 Liquid Glass and the AI product launches made this the default look for 2024–2026 tech brand films — its character is 'slow, translucent, premium'.",
+      "fit": "Soft glow, quiet passages",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V10_Aurora_And_Frosted_Glass.md",
+      "image": ""
+    },
+    {
+      "id": "V11",
+      "name": "Geometric Bauhaus",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "Circles, triangles and rectangles translate, rotate and scale precisely on a strict grid, in a limited palette of the three primaries plus black and white — the orderly beauty of mechanical rationality. It comes from the Bauhaus and Swiss International graphic tradition (Adobe once worked with the Bauhaus archive on the Hidden Treasures project), and is the mainstream language of the kinetic poster, naturally in step with a music beat.",
+      "fit": "Geometry, design feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V11_Bauhaus_Geometry.md",
+      "image": ""
+    },
+    {
+      "id": "V12",
+      "name": "80s Synthwave / VHS",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "A wholesale reference to a specific era's media aesthetic: 80s synthwave is neon grids + sunset gradients + chrome type; VHS is scanlines + colour shift + tape noise; Y2K millennium style is liquid chrome metal, acid green-purple, skeuomorphic system windows and low-fi 3D. Y2K has come back strongly in music videos and trend brand films over the past two years, and the Bilibili template marketplace supplies plenty of 'acid chrome' material.",
+      "fit": "Retro neon, videotape",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V12_80s_Synthwave_VHS.md",
+      "image": ""
+    },
+    {
+      "id": "V13",
+      "name": "Pixel Art",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "The retro-game aesthetic of low-resolution chunky pixels + a limited palette + low-frame-rate sprite animation; common in the Bilibili gaming section (Minecraft, Terraria, indie games), 8-bit music videos and nostalgic brand marketing; Aseprite tutorials have a steady learning ecosystem on Bilibili with 100k+ views.",
+      "fit": "Memories, game feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V13_Pixels.md",
+      "image": ""
+    },
+    {
+      "id": "V14",
+      "name": "Liquid Motion",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "Shapes flow, stretch, drip and merge like liquid: a transition is a splash of paint washing across the screen, a logo gathering out of a single drop. Organic, satisfying, high-energy; widely used in music videos, food and drink ads, and transition packages.",
+      "fit": "Soft transitions, flowing emotion",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V14_Liquid_Flow.md",
+      "image": ""
+    },
+    {
+      "id": "V15",
+      "name": "Variety Captions",
+      "series": "V",
+      "category": "mg-styles-15",
+      "description": "It comes from the emotional decorative captions of TV variety-show post-production: multi-layer outlined rounded type with springy entrances, changing colour and shape with the person's mood, plus percussion sound effects. It has since sunk down into the common packaging language of vlogs, cute-pet videos, interviews and comedy re-edits; CapCut ships plenty of caption templates, and free caption style packs circulate on Bilibili.",
+      "fit": "9:16 vertical variety-show captions — a reference for the vertical subtitle version",
+      "tags": [],
+      "file": "assets/library/style-prompts/V_mg-styles-15/V15_Variety_Show_Captions.md",
+      "image": ""
+    },
+    {
+      "id": "X1",
+      "name": "Hand-drawn",
+      "series": "X",
+      "category": "code-video",
+      "description": "Warm empty paper, a thin ink horizon, and an 8-bit mascot that acts out the story, cut against dark title cards and arcade screens.",
+      "fit": "Explaining, recording",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X1_Hand_Drawn.md",
+      "image": ""
+    },
+    {
+      "id": "X2",
+      "name": "Brand motion graphics",
+      "series": "X",
+      "category": "code-video",
+      "description": "A clean explainer that looks like an official brand asset: one dark field, thin white hand-drawn line art, bold type with a single accent, scribbled emphasis, and a persuasion arc from pain to call to action. Silent.",
+      "fit": "Channel intro",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X2_Brand_Motion_Graphics.md",
+      "image": ""
+    },
+    {
+      "id": "X3",
+      "name": "Sand art",
+      "series": "X",
+      "category": "code-video",
+      "description": "Scenes poured in dark sand on a glowing light table, lit by sunbursts and night skies, that break into grains and blow away between eras. Music and sound effects. Suits stories told through time.",
+      "fit": "Memories, emotion — a good fit for feeling-led explainers",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X3_Sand_Art.md",
+      "image": ""
+    },
+    {
+      "id": "X4",
+      "name": "Lyric music video",
+      "series": "X",
+      "category": "code-video",
+      "description": "An educational music video that reads like a technical explainer set to a song: a dark grid, a section label in the corner, one diagram per lyric line, and the sung line at the bottom. The engine makes the instrumental; the lyrics are on screen, not sung.",
+      "fit": "Punchlines, music passages",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X4_Lyric_MV.md",
+      "image": ""
+    },
+    {
+      "id": "X5",
+      "name": "Beat-synced footage",
+      "series": "X",
+      "category": "code-video",
+      "description": "A high-end, minimal promo cut to a song: a hook that lands word by word on a light stage, the product UI, then real clips on a dark stage as a scanned wall, a 3D carousel, and a phone next to a campaign panel, with stats on push cuts and every cut on a beat.",
+      "fit": "Fast cutting",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X5_Beat_Synced_Montage.md",
+      "image": ""
+    },
+    {
+      "id": "X6",
+      "name": "UI morph",
+      "series": "X",
+      "category": "code-video",
+      "description": "One interface element that never cuts: a button becomes a loader, a player, a slider, tabs, a chart, a command palette, a toast, and finally the button again, so the video loops. A cursor clicks and drags to cause every change, on the beat. Reference frames are in `docs/styles/uimorph.jpg`.",
+      "fit": "Demoing a tool",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X6_Interface_Morph.md",
+      "image": ""
+    },
+    {
+      "id": "X7",
+      "name": "Hero comic",
+      "series": "X",
+      "category": "code-video",
+      "description": "A superhero comic book come to life: newsprint pages, thick ink panels, Ben-Day halftone, yellow narration boxes, speech balloons, burst lettering, and a red title slab over flipping pages.",
+      "fit": "Passion, turning points",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X7_Hero_Comic.md",
+      "image": ""
+    },
+    {
+      "id": "X8",
+      "name": "Scrapbook",
+      "series": "X",
+      "category": "code-video",
+      "description": "A making-of journal on a kraft desk: lined notebook pages, polaroids held by washi tape, torn paper labels, die-cut stickers, rubber stamps, and marker doodles.",
+      "fit": "Recording these three months",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X8_Journal_Scrapbook.md",
+      "image": ""
+    },
+    {
+      "id": "X9",
+      "name": "Torn-paper collage",
+      "series": "X",
+      "category": "code-video",
+      "description": "Pictures built from torn scraps of watercolour-tinted paper, laid one by one on a sheet of cold-press paper: skies and seas in long strips, rocks and crowds in small shards, a sun as a torn disc. Calm, handmade, and warm.",
+      "fit": "Memories, piecing things together",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X9_Torn_Paper_Collage.md",
+      "image": ""
+    },
+    {
+      "id": "X10",
+      "name": "Particles",
+      "series": "X",
+      "category": "code-video",
+      "description": "Thousands of glowing particles drift on a flow field, gather into words, logos, and numbers, then scatter and re-form. The purest \"drawn in code\" look.",
+      "fit": "Atmosphere",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X10_Particles.md",
+      "image": ""
+    },
+    {
+      "id": "X11",
+      "name": "Split-flap board",
+      "series": "X",
+      "category": "code-video",
+      "description": "A railway departures board: tiles clatter through the alphabet onto each message, amber lamps blink, and a station clock ticks.",
+      "fit": "The airport-style flip board — good for titles and numbers",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X11_Split_Flap_Board.md",
+      "image": ""
+    },
+    {
+      "id": "X12",
+      "name": "Neon sign",
+      "series": "X",
+      "category": "code-video",
+      "description": "Glass tubes on a dark brick wall that buzz and flicker on, glow onto the wall, and reflect on a wet floor.",
+      "fit": "Punchlines",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X12_Neon_Sign.md",
+      "image": ""
+    },
+    {
+      "id": "X13",
+      "name": "16-bit arcade",
+      "series": "X",
+      "category": "code-video",
+      "description": "A 16-bit console game come to life: a starry violet night, pixel sprites, CRT scanlines, and game UI that turns the story into a run from INSERT COIN to GAME CLEAR.",
+      "fit": "Game feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X13_16_Bit_Arcade.md",
+      "image": ""
+    },
+    {
+      "id": "X14",
+      "name": "CRT terminal",
+      "series": "X",
+      "category": "code-video",
+      "description": "A green phosphor terminal on an old CRT: commands type themselves out, logs scroll, progress bars fill, and big block-letter banners glow for the name and the numbers.",
+      "fit": "Talking about code and AI",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X14_CRT_Terminal.md",
+      "image": ""
+    },
+    {
+      "id": "X15",
+      "name": "Thermal receipt",
+      "series": "X",
+      "category": "code-video",
+      "description": "A thermal receipt printer on a teal desk: every scene prints a fresh slip that rises out of the printer, gets stamped, and is torn off. Works in 16:9 and 9:16.",
+      "fit": "Lists, 'doing the sums'",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X15_Thermal_Receipt.md",
+      "image": ""
+    },
+    {
+      "id": "X16",
+      "name": "Transit map",
+      "series": "X",
+      "category": "code-video",
+      "description": "A transit map and station signage: coloured lines are drawn across cream paper, stations light up one by one, a train runs the line, and the ending is the terminus sign.",
+      "fit": "Talking about a journey step by step — a good fit for section 04",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X16_Subway_Map.md",
+      "image": ""
+    },
+    {
+      "id": "X17",
+      "name": "Blueprint",
+      "series": "X",
+      "category": "code-video",
+      "description": "A cyanotype engineering drawing: white linework on blueprint blue, dimension lines, numbered balloons, and a title block, as if the product were being specified on a drafting table.",
+      "fit": "Explaining structure",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X17_Blueprint.md",
+      "image": ""
+    },
+    {
+      "id": "X18",
+      "name": "Comic book issue",
+      "series": "X",
+      "category": "code-video",
+      "description": "A video that stages its content as a physical vintage comic book being read on camera: a portrait-oriented comic page/spread sits centered in the landscape frame against a near-black vignette background, and a virtual camera pans and pushes into individual panels the way a motion-comic or Ken Burns documentary reveals a print page. The book opens with a magazine-style cover, then turns through several two-page spreads of a 2x2 panel grid, and closes on a colophon-style back cover. Panels are built from flat pop-art color blocks (red, gold/orange, blue), Ben-Day halftone dot textures, and sunburst ray backgrounds, with comic sound-effect bursts and a speech-bubble mascot giving it an energetic, Silver-Age-superhero-comic / 1960s advertising-comic feel. The mood is upbeat, punchy, and declarative, reinforced by a continuously driving instrumental music bed with frequent hard transient hits.",
+      "fit": "Telling stories panel by panel",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X18_Comic_Book.md",
+      "image": ""
+    },
+    {
+      "id": "X19",
+      "name": "Documentary",
+      "series": "X",
+      "category": "code-video",
+      "description": "A piece that reads like a serious investigative-documentary case file rather than a marketing reel: a near-black canvas holding a slowly turning low-poly \"network sphere\" emblem, chaptered like folder tabs (\"Chapter 1 — ...\", \"Chapter 2 — ...\"), with aged paper \"evidence cards\" laid under a desk lamp, minimal data-journalism bar charts, and one dramatized \"witness testimony\" segment shot as a backlit, explicitly-labeled graphic silhouette. Everything moves slowly and settles rather than snaps; captions build up phrase by phrase like narration being typed out; a hushed, low ambient bed with a slow recurring pluck tone underscores the whole thing, broken only by a hard opening hit and a bright closing chime. The net effect is hushed, credible, forensic — closer to a true-crime/60-Minutes case-file open than a tech-hype trailer.",
+      "fit": "Telling one thing seriously",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X19_Documentary.md",
+      "image": ""
+    },
+    {
+      "id": "X20",
+      "name": "Museum exhibit",
+      "series": "X",
+      "category": "code-video",
+      "description": "A piece that plays like a nighttime museum special-exhibit walkthrough: a single visitor moves room to room through a pitch-dark gallery where each \"diorama\" is picked out by one hanging spotlight, a low-poly artifact on a pedestal, a cream museum wall-label, and a docent's caption bar typing out commentary along the bottom. The overall feeling is hushed, reverent, and slightly theatrical — closer to an after-hours exhibit tour than a tech product demo, with warm sepia light carving objects out of near-total black.",
+      "fit": "Presenting things one by one",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X20_Museum_Exhibition.md",
+      "image": ""
+    },
+    {
+      "id": "X21",
+      "name": "Breaking news",
+      "series": "X",
+      "category": "code-video",
+      "description": "This clip resembles a cable-news \"breaking news\" graphics package — the kind of template a 24-hour news channel uses to announce a major story. It opens on a slowly-revealed rotating-globe title card, sweeps a diagonal tri-color ribbon across the screen for the headline stinger, cuts to a flat-vector illustrated news anchor at a desk with a persistent lower-third and scrolling ticker, pushes into a zooming world map (globe → country → city → geolocation pin), then alternates between data/stat cards and the anchor before closing on a minimal logo card. The feeling is urgent, corporate-broadcast, and info-dense: deep navy blues, hard red accents, bold condensed numerals, and a constant on-screen HUD (live clock, channel bug, ticker) that never disappears, evoking authority and immediacy rather than warmth.",
+      "fit": "A breaking-news opening",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X21_Breaking_News.md",
+      "image": ""
+    },
+    {
+      "id": "X22",
+      "name": "Detective board",
+      "series": "X",
+      "category": "code-video",
+      "description": "This clip reads like a detective's evidence corkboard being filmed and slowly revealed: a warm, lamp-lit cork bulletin board covered in pinned index cards and handwritten sticky notes, centered on a \"mugshot\" placeholder card for an unidentified suspect. Instead of cutting between shots, a single camera pans and tracks sideways across the board as new evidence cards appear one by one, each strung to the suspect card with taut red thread, building toward a wide \"conspiracy board\" pull-back. A camera-flash whiteout is the only hard cut in the video, swapping the mystery card for a clean \"identified\" result card stamped closed. The pacing feels like a true-crime documentary graphics package: steady ticking/pulsing music under a slow reveal, a stab of sharp hits, one big swell exactly on the flash-cut, then a fade to quiet.",
+      "fit": "Connecting the clues, explainer-style deduction",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X22_Detective_Evidence_Board.md",
+      "image": ""
+    },
+    {
+      "id": "X23",
+      "name": "Picture storybook",
+      "series": "X",
+      "category": "code-video",
+      "description": "The video looks like a physical children's picture book filmed lying flat on a wooden desk: a leather-bound cover with gold ornamental corners opens like a real book, then the camera holds a flat, head-on view of each cream-paper spread as it \"reads itself\" — a circular illustration on the left breathing with small looping motion, and serif body copy typing itself in on the right. The mood is warm, nostalgic, and gentle: soft pastel scene-paintings inside a locket-shaped frame, muted earth-tone data callouts, and a plush round mascot that waves through every scene. It reads as a bedtime-story explainer: cozy rather than corporate, tactile rather than flat-UI.",
+      "fit": "Telling stories warmly",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X23_Picture_Book.md",
+      "image": ""
+    },
+    {
+      "id": "X24",
+      "name": "RPG quest",
+      "series": "X",
+      "category": "code-video",
+      "description": "A clip that reads like a cutscene lifted from a 16-bit console RPG (SNES/Game Boy Advance era): a fixed-camera pixel-art diorama, a JRPG dialogue box with typewriter text, a \"quest log\" stat panel, a sword-and-slime battle vignette, a radial-burst level-up screen, and a loot-pickup card, bookended by a night title card and a sunset \"quest clear\" card. A thin scanline texture sits over every frame, and a chiptune-style pulsing melody drives the pacing. The overall feeling is nostalgic, toy-like, and gamified — factual/data content (benchmark scores, price changes) is translated one-to-one into RPG game-feel (quest completion bars, \"+EXP\" pickups, loot cards, stat increases).",
+      "fit": "Learning like doing quests",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X24_RPG_Quest.md",
+      "image": ""
+    },
+    {
+      "id": "X25",
+      "name": "Weather forecast",
+      "series": "X",
+      "category": "code-video",
+      "description": "A short data video styled as a Korean TV nightly-weather-report broadcast graphics package repurposed for a status update. It opens with a satellite/radar-style storm-spiral animation, then cuts through a sequence of \"forecast card\" scenes — a temperature-style map, thermometers, wind/speed gauges, a multi-day forecast strip, and a sunny sign-off — each dressed with real broadcast chrome: a channel logo pill, a live date badge, and a scrolling breaking-news ticker along the bottom. The screen stays locked-off and flat; all motion lives inside the graphics (falling snow, twinkling stars, drifting wind lines, a fast diagonal wipe between scenes). A bright, plucky instrumental loop runs under it with an accented musical hit landing on every scene change, giving the whole thing a polished, on-air, slightly playful newsroom feel.",
+      "fit": "Using weather to talk about feelings — a good fit for feeling-led explainers",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X25_Weather_Forecast.md",
+      "image": ""
+    },
+    {
+      "id": "X26",
+      "name": "Home-shopping infomercial",
+      "series": "X",
+      "category": "code-video",
+      "description": "The video reads as a parody of a Korean late-night TV home-shopping / infomercial broadcast: a flat, rounded-vector cartoon world where each beat of the pitch gets its own full-bleed, single-hue \"sunburst\" backdrop, a chunky comic-shout headline slams onto the screen, and a persistent lower-third news-ticker bar keeps scrolling bullet claims underneath. A simple blob-shaped mascot character stands in for \"the customer,\" shown gloomy and gray before the pitch and pumped-up and colorful after it. There is no camera movement at all — it behaves like a slide deck of hard graphic cards, each card populated with big bold numbers, price tags, comparison panels, and cartoon icons (a ticking bomb, a ringing phone, a rocket, a green checkmark). The audio is a bright, dense, evenly-pulsing music-and-SFX bed that stays \"hot\" almost the entire runtime, occasionally spiking with comedic riser/whoosh effects timed to the hard cuts, giving the whole thing a caffeinated, game-show-auction energy.",
+      "fit": "Satirising course-selling — try it in section 06",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X26_TV_Shopping.md",
+      "image": ""
+    },
+    {
+      "id": "X27",
+      "name": "Sports broadcast",
+      "series": "X",
+      "category": "code-video",
+      "description": "The clip reads like a cable-TV live-sports broadcast package — a night-match stadium open with floodlights and an LED-dot crowd, cut with the on-screen graphics package a network overlays during a match (score bug, \"LIVE\" badge, lower-third source ticker) — repurposed to walk through a head-to-head stat comparison instead of a game. Motion is entirely 2D broadcast-graphics motion (nothing pans or dollies; text counts up, bars fill, cards slide and glow) cut into short hard-cut chapters every few seconds. The audio is a rhythmic, plucked/percussive pulse that tightens and loosens with the on-screen drama — quieter during the analytical stat-sheet beat, swelling into a bright, confetti-timed climax at the finale — which together with the broadcast chrome gives it the feel of a TV \"match highlights\" reel rather than a slide deck.",
+      "fit": "Commentary feel",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X27_Sports_Broadcast.md",
+      "image": ""
+    },
+    {
+      "id": "X28",
+      "name": "Assembly manual",
+      "series": "X",
+      "category": "code-video",
+      "description": "The video reads like a printed IKEA-style product-assembly instruction booklet that has been turned into a motion explainer: flat vector line art on aged cream paper, a giant chapter numeral opening every page, an isometric shipping-box \"hero\" object, a small stick-figure mascot for scale, and literal hardware metaphors (price tags, coin stacks, a conveyor belt, wall outlets) standing in for abstract data instead of ordinary charts. Pages slide over one another like leaves of a manual being turned rather than cutting, each diagram builds itself piece by piece before its number snaps in, and a steady rhythmic tick-track under occasional synth swells gives the whole thing a calm, deliberate, \"assembled and verified\" feeling that ends on a stamped checkmark held in a still frame.",
+      "fit": "Explaining steps, IKEA-manual style",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X28_Assembly_Manual.md",
+      "image": ""
+    },
+    {
+      "id": "X29",
+      "name": "Whiteboard lecture",
+      "series": "X",
+      "category": "code-video",
+      "description": "A static \"desk-cam\" shot of a physical whiteboard, framed by its own aluminum bezel, on which a hand entering from the bottom-right corner writes, draws, underlines, circles, and erases with dry-erase markers and a block eraser — the classic hand-drawn whiteboard-explainer look. Everything is built stroke-by-stroke in real time rather than fading in, numbers get crossed out and replaced live, and nothing is ever fully wiped clean: every earlier section keeps ghosting through as a barely-visible watermark under the current one, giving the board a used, palimpsest-like texture. The mood is brisk, corporate-friendly, and a little playful (circled step numbers, a green checkmark shield, a red circled callout), riding a continuous, steady percussive beat underneath.",
+      "fit": "Explaining reasons",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X29_Whiteboard_Lesson.md",
+      "image": ""
+    },
+    {
+      "id": "X30",
+      "name": "Movie trailer",
+      "series": "X",
+      "category": "code-video",
+      "description": "A prestige announcement trailer that reads like a luxury-watch or car-launch teaser borrowed for a tech reveal: an ultra-wide cinematic letterbox holds a near-black, warm vignette sky sprinkled with slow-drifting dust motes, and every idea — a question, then a date, then a run of benchmark numbers, then the product name, then a release date — gets its own held, centered, fully-faded screen. Nothing cuts hard; everything breathes in as a soft bloom of light, holds, and dissolves through black into the next. The mood is confident and expensive rather than energetic: hushed opening, a rhythmic pulse of swelling hits under the numbers, one big flare-and-impact at the name reveal, then a slow decrescendo fade-out.",
+      "fit": "Next-episode and channel trailers — try it in section 11",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X30_Movie_Trailer.md",
+      "image": ""
+    },
+    {
+      "id": "X31",
+      "name": "Math proof lecture",
+      "series": "X",
+      "category": "code-video",
+      "description": "A dark, quiet, textbook-like explainer that stages an argument the way a math lecture stages a proof: a title card, a numbered \"lemma\" per claim, and a closing \"therefore\" statement with a QED mark. Everything sits on a near-black panel with a faint off-center glow, rendered as flat 2D vector graphics — thin-stroke bar and scatter charts, color-coded equations that build term by term, and small dim citation text in the corner. The mood is restrained and confident rather than flashy: no camera movement, no particle effects, just clean typography and numbers arriving in a steady, metronomic rhythm under a soft ambient pulse.",
+      "fit": "Deriving a conclusion step by step",
+      "tags": [],
+      "file": "assets/library/style-prompts/X_code-video/X31_Math_Proof_Lesson.md",
+      "image": ""
+    },
+    {
+      "id": "R1",
+      "name": "Neon Rainy Night · Cinematic",
+      "series": "R",
+      "category": "Cyberpunk (First Batch)",
+      "description": "A rainy narrow street in one-point perspective, vertical signs hanging on both sides, cyan fog thickening with distance, a warm glow at the end of the street; reflections on the wet ground take up half the frame.",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/R_Learned_From_References/R1_Neon_Rainy_Night_Cinematic.md",
+      "image": "assets/library/style-prompts/R_Learned_From_References/R1_Neon_Rainy_Night_Cinematic.jpg"
+    },
+    {
+      "id": "R2",
+      "name": "Retro 80s–90s Japanese Anime",
+      "series": "R",
+      "category": "Cyberpunk (First Batch)",
+      "description": "Cel-painted people and cars speeding along a night-time elevated highway, tall buildings seen from below, tail lights dragging two ribbons of light, the whole thing like it was played off an old videotape.",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/R_Learned_From_References/R2_Retro_80s_90s_Japanese_Anime.md",
+      "image": "assets/library/style-prompts/R_Learned_From_References/R2_Retro_80s_90s_Japanese_Anime.jpg"
+    },
+    {
+      "id": "R3",
+      "name": "American Comic · Street Graffiti",
+      "series": "R",
+      "category": "Cyberpunk (First Batch)",
+      "description": "A yellow ground, magenta and cyan lightning splitting the frame, halftone dots, spray paint, speed lines bursting outward; a thick-black-outlined figure punching out of the frame, next to one big onomatopoeia word.",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/R_Learned_From_References/R3_American_Comic_Street_Graffiti.md",
+      "image": "assets/library/style-prompts/R_Learned_From_References/R3_American_Comic_Street_Graffiti.jpg"
+    },
+    {
+      "id": "R4",
+      "name": "Doomed Industrial · Dark Sci-Fi",
+      "series": "R",
+      "category": "Cyberpunk (First Batch)",
+      "description": "Almost only green; huge mechanical structures layered into the fog, a big ring in the distance, shafts of light leaking down from the top; on a walkway, a small figure in red with a backpack, back to the camera.",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/R_Learned_From_References/R4_Doomed_Industrial_Dark_Sci_Fi.md",
+      "image": "assets/library/style-prompts/R_Learned_From_References/R4_Doomed_Industrial_Dark_Sci_Fi.jpg"
+    },
+    {
+      "id": "R5",
+      "name": "Pixel Cyber · Retro Gaming",
+      "series": "R",
+      "category": "Cyberpunk (First Batch)",
+      "description": "Looking down on a street full of signs, a footbridge crossing it, a big \"City That Never Sleeps\" screen at the end of the street, people with umbrellas, small cars, flying cars, pixel rain falling.",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/R_Learned_From_References/R5_Pixel_Cyber_Retro_Gaming.md",
+      "image": "assets/library/style-prompts/R_Learned_From_References/R5_Pixel_Cyber_Retro_Gaming.jpg"
+    },
+    {
+      "id": "R6",
+      "name": "Eastern Cyber · Chinese Fantasy",
+      "series": "R",
+      "category": "Cyberpunk (First Batch)",
+      "description": "A paper-coloured sky, one big red sun, a line of cranes flying past; by the water, a five-storey pavilion with upturned eaves, wearing neon vertical signs that read \"City That Never Sleeps\" and \"Wine House\" plus a screen, its spire ringed with a cyan holographic halo; behind it, future towers and mountains in pale ink, strings of small red lanterns hanging from the cables; on the water, a small boat and a person in a conical hat, the reflection dissolving like ink wash.",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/R_Learned_From_References/R6_Eastern_Cyber_Chinese_Fantasy.md",
+      "image": "assets/library/style-prompts/R_Learned_From_References/R6_Eastern_Cyber_Chinese_Fantasy.jpg"
+    },
+    {
+      "id": "R7",
+      "name": "Flat Illustration · Dusk Rooftop",
+      "series": "R",
+      "category": "Cyberpunk (First Batch)",
+      "description": "A dusk sky in one big gradient, three layers of flat-painted city silhouettes, a big \"Night City\" neon sign on a rooftop, a person and a cat sitting at the edge of the building, a light-rail train passing behind them.",
+      "fit": "",
+      "tags": [],
+      "file": "assets/library/style-prompts/R_Learned_From_References/R7_Flat_Illustration_Dusk_Rooftop.md",
+      "image": "assets/library/style-prompts/R_Learned_From_References/R7_Flat_Illustration_Dusk_Rooftop.jpg"
+    },
+    {
+      "id": "O1",
+      "name": "Wings",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "A WWI dogfight built in three.js, graded like a 1927 orthochromatic print: washed-out sky, deep blacks, an overall amber tint, gate weave and scratches. *Wings* is most famous for strapping the camera to the aeroplane for its dogfights, so most of the cameras here are mounted on the planes.",
+      "fit": "Silent 3D dogfight · orthochromatic B&W + amber tint",
+      "tags": [
+        "3D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O1_Wings.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O1_Wings.jpg"
+    },
+    {
+      "id": "O2",
+      "name": "The Broadway Melody",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "A moving black-gold-silver Art Deco musical poster: airbrushed gradients, a stepped proscenium, a chrome condenser microphone. 1929 Broadway was at the height of Art Deco, and this film is one of the ones that brought sound — so the sound waves ripple out of the microphone in rings.",
+      "fit": "Black-gold-silver Art Deco musical poster",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O2_The_Broadway_Melody.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O2_The_Broadway_Melody.jpg"
+    },
+    {
+      "id": "O3",
+      "name": "All Quiet on the Western Front",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "Kollwitz-style woodcut: big blocks of black, knife-cut white outlines, rough wood grain, with Clawd overprinted in a single separate orange plate. Kollwitz's 1921–22 anti-war prints come from the same war and the same grief as this film.",
+      "fit": "Kollwitz-style anti-war woodcut",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O3_All_Quiet_On_The_Western_Front.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O3_All_Quiet_On_The_Western_Front.jpg"
+    },
+    {
+      "id": "O4",
+      "name": "Cimarron",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "An 1889 gold-toned albumen-print panorama: soft focus, slight horizontal drag, cream highlights and warm brown shadows, silver grain, with only Clawd hand-coloured. The film opens on the 1889 Oklahoma land rush, so it is shot in the photographic texture of that year — and this chapter stays monochrome.",
+      "fit": "1889 sepia albumen-print panorama",
+      "tags": [
+        "2D·Sepia"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O4_Cimarron.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O4_Cimarron.jpg"
+    },
+    {
+      "id": "O5",
+      "name": "Grand Hotel",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "A round lobby built in three.js, graded in MGM's silvery black and white, with Clawd's orange as the only colour. This film is most famous for the shot looking straight down from the top, the galleries spiralling inward — so the whole set is built around that one shot.",
+      "fit": "MGM silvery B&W 3D lobby",
+      "tags": [
+        "3D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O5_Grand_Hotel.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O5_Grand_Hotel.jpg"
+    },
+    {
+      "id": "O6",
+      "name": "Cavalcade",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "Mucha-style Art Nouveau decorative painting: swelling brown outlines, pastel flat colour, mosaic ground, a halo behind the central figure. The film opens on a family raising their glasses at midnight on New Year's Eve 1899 to welcome the new century — so the halo is made into a clock face striking twelve.",
+      "fit": "Mucha Art Nouveau decorative painting",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O6_Cavalcade.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O6_Cavalcade.jpg"
+    },
+    {
+      "id": "O7",
+      "name": "It Happened One Night",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "A 1934 black-and-white rubber-hose cartoon: ink lines that swell and thin, pie-cut eyes, white gloves, cel paint laid over grey watercolour backgrounds, with film grain. From the same year as the film, and a road comedy's jokes suit a cartoon's rhythm.",
+      "fit": "1930s B&W rubber-hose cartoon",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O7_It_Happened_One_Night.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O7_It_Happened_One_Night.jpg"
+    },
+    {
+      "id": "O8",
+      "name": "Mutiny on the Bounty",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "An 18th-century British Admiralty chart as a copper engraving: rhumb lines, compass roses, depth soundings, hand tinting, with the Bounty as a ship illustration on the chart. The film tells of one voyage, so the whole passage stays on the chart.",
+      "fit": "Admiralty chart copper engraving",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O8_Mutiny_On_The_Bounty.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O8_Mutiny_On_The_Bounty.jpg"
+    },
+    {
+      "id": "O9",
+      "name": "The Great Ziegfeld",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "A rotating spiral 'wedding cake' stage built in three.js, in MGM silvery black and white: satin, chiffon and ostrich feathers against deep black, with only Clawd in colour. The 175-step spiral stage in 'A Pretty Girl Is Like a Melody' is this film's famous scene.",
+      "fit": "Silvery B&W 3D spiral wedding-cake stage",
+      "tags": [
+        "3D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O9_The_Great_Ziegfeld.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O9_The_Great_Ziegfeld.jpg"
+    },
+    {
+      "id": "O10",
+      "name": "The Life of Emile Zola",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "Newspaper letterpress plus 1890s line engraving: big wooden-type headlines, densely set body type, ink spread and drop-out on yellowing newsprint, figures drawn in hatching. The film's most famous image is the front page of L'Aurore for 13 January 1898, 'J'Accuse…!'.",
+      "fit": "Newspaper letterpress + line engraving",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O10_The_Life_Of_Emile_Zola.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O10_The_Life_Of_Emile_Zola.jpg"
+    },
+    {
+      "id": "O11",
+      "name": "You Can't Take It with You",
+      "series": "O",
+      "category": "Silent & Early Sound 1927–1938",
+      "description": "1930s WPA silkscreen poster: six opaque flat inks, split-colour gradients, slight misregistration, printed on cotton paper. The Federal Art Project posters of 1936–39 are the American graphic language of this film's own era — and they set it apart from part 10's newspaper.",
+      "fit": "WPA silkscreen poster",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O11_You_Cant_Take_It_With_You.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O11_You_Cant_Take_It_With_You.jpg"
+    },
+    {
+      "id": "O12",
+      "name": "Gone with the Wind",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "Impasto oil painting: palette-knife blocks of colour, ridges of piled paint, the heat of Technicolor — a sky burning from gold to blood red, red earth, black silhouettes. Colour arrives for the whole series with *Gone with the Wind*; the first full-colour frame is Tara at sunset.",
+      "fit": "Technicolor impasto oil painting",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O12_Gone_With_The_Wind.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O12_Gone_With_The_Wind.jpg"
+    },
+    {
+      "id": "O13",
+      "name": "Rebecca",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "Charcoal drawing on rough paper: velvety black, smudged grey, moonlight and fog erased out with a rubber. Hitchcock's *Rebecca* is a black-and-white Gothic dream — the estate first in fog, then in fire — and charcoal can draw both.",
+      "fit": "Gothic charcoal drawing",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O13_Rebecca.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O13_Rebecca.jpg"
+    },
+    {
+      "id": "O14",
+      "name": "How Green Was My Valley",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "Opaque gouache in the 1941 original poster's gold-and-green palette: solid blocks of colour, coal-black slag heaps, heavy dark mountains in the manner of Kyffin Williams, with broken outlines. Gouache, not woodcut, to set it apart from part 3; it shows miners singing their way down the valley home.",
+      "fit": "Welsh valley gouache",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O14_How_Green_Was_My_Valley.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O14_How_Green_Was_My_Valley.jpg"
+    },
+    {
+      "id": "O15",
+      "name": "Mrs. Miniver",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "A WWII British home-front lithograph poster: a limited overprint of brick red, deep green, cream and grey-blue, with shadows in lithographic crayon grain. Set to the film's ending: the whole village singing in a village church whose roof has been bombed open, Spitfires flying over the hole.",
+      "fit": "British wartime lithograph poster",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O15_Mrs_Miniver.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O15_Mrs_Miniver.jpg"
+    },
+    {
+      "id": "O16",
+      "name": "Casablanca",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "The film itself, as it looks: Arthur Edeson's studio black and white, drawn as a retouched production still — soft-focus close-ups with catchlights, venetian-blind shadows, shafts of light in the smoke. Clawd as Rick is the only colour.",
+      "fit": "Hollywood studio soft-focus B&W",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O16_Casablanca.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O16_Casablanca.jpg"
+    },
+    {
+      "id": "O17",
+      "name": "Going My Way",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "Backlit Gothic stained glass: leaded panes of coloured glass, faces drawn in grey tones, Chartres blue and jewel-red borders, coloured light spilling onto the church floor. Father O'Malley and the choir are set into the window, with a gold star above them.",
+      "fit": "Backlit Gothic stained-glass window",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O17_Going_My_Way.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O17_Going_My_Way.jpg"
+    },
+    {
+      "id": "O18",
+      "name": "The Lost Weekend",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "The picture is typed: monospace characters landing on a pica grid, greys built from character density and overstrikes, uneven ribbon ink. Don carries his typewriter to the pawnshop, so the whole street is typed out by the typewriter; Clawd types with an orange ribbon.",
+      "fit": "Typewriter character art",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O18_The_Lost_Weekend.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O18_The_Lost_Weekend.jpg"
+    },
+    {
+      "id": "O19",
+      "name": "The Best Years of Our Lives",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "A 1946 picture-magazine news-photo spread: coarse black halftone dots on coated paper, a gutter crease, overprinted captions. Stripped B-17s run to the horizon in deep focus; Clawd is printed alone on a spot-orange plate, the only colour.",
+      "fit": "Picture-magazine news-photo halftone spread",
+      "tags": [
+        "2.5D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O19_The_Best_Years_Of_Our_Lives.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O19_The_Best_Years_Of_Our_Lives.jpg"
+    },
+    {
+      "id": "O20",
+      "name": "Gentleman's Agreement",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "1940s magazine-illustration graphite pencil: construction lines first, then parallel hatching built up pass by pass, darks smudged in, highlights lifted with an eraser. The picture is drawn out step by step around one polite refusal at a hotel desk; only Clawd is in coloured pencil.",
+      "fit": "1940s magazine pencil illustration",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O20_Gentlemans_Agreement.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O20_Gentlemans_Agreement.jpg"
+    },
+    {
+      "id": "O21",
+      "name": "Hamlet",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "Elsinore in real-time 3D, high-contrast deep-focus black and white: volumetric fog, wet stone, waves breaking into lace foam, silver grain. Shot after the castle, the battlements in the fog and the rocks in Olivier's film; Clawd is the only colour.",
+      "fit": "B&W 3D castle in the fog",
+      "tags": [
+        "3D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O21_Hamlet.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O21_Hamlet.jpg"
+    },
+    {
+      "id": "O22",
+      "name": "All the King's Men",
+      "series": "O",
+      "category": "Colour & War 1939–1949",
+      "description": "A Southern campaign poster's wood-type letterpress: red, blue and black inks on cream paper, wood grain in the solids, uneven inking, misregistered plates, the portrait in halftone dots. This is Stark's campaign rally, with Clawd printed in a fourth orange plate.",
+      "fit": "Southern campaign wood-type poster",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O22_All_The_Kings_Men.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O22_All_The_Kings_Men.jpg"
+    },
+    {
+      "id": "O23",
+      "name": "All About Eve",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "Al Hirschfeld's Broadway caricatures: flowing ink lines that swell and thin, black blocks against white, lots of empty space, each person caught by a single exaggerated feature. The film is about the theatre, so the party is drawn as a newspaper theatre-page caricature; Clawd is the only colour.",
+      "fit": "Hirschfeld one-line caricature",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O23_All_About_Eve.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O23_All_About_Eve.jpg"
+    },
+    {
+      "id": "O24",
+      "name": "An American in Paris",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "Raoul Dufy's watercolour: quick blue-black ink lines, with transparent blocks of cobalt blue, lemon yellow and rose red underneath, line and colour never lining up. The film's closing ballet was designed after Dufy, and the Place de la Concorde and the dancers are painted his way.",
+      "fit": "Dufy watercolour ballet",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O24_An_American_In_Paris.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O24_An_American_In_Paris.jpg"
+    },
+    {
+      "id": "O25",
+      "name": "The Greatest Show on Earth",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "A Strobridge circus colour lithograph: chrome yellow, vermilion and cobalt blue flat colour, thick black outlines, with halftone dots, misregistration and litho grain. DeMille's big top is drawn as three poster rings, with Clawd as Sebastian doing the aerial catch.",
+      "fit": "Strobridge circus colour lithograph",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O25_The_Greatest_Show_On_Earth.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O25_The_Greatest_Show_On_Earth.jpg"
+    },
+    {
+      "id": "O26",
+      "name": "From Here to Eternity",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "1953 high-key black and white: hard sunlight, darkened skies, whitened foam, wet sand reflecting the sky, silver grain and halation. Shot for the kiss in the surf at Halona Cove; Clawd sitting on the lava blowing the bugle is the only colour.",
+      "fit": "High-key beach B&W screen",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O26_From_Here_To_Eternity.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O26_From_Here_To_Eternity.jpg"
+    },
+    {
+      "id": "O27",
+      "name": "On the Waterfront",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "Ben Shahn's social realism: trembling transfer ink lines, with flat tempera colour blocks offset underneath, big-handed long-faced workers, colours held to grey-blue, brick red and ochre yellow. Shahn painted dockworkers and unions — exactly this film's world.",
+      "fit": "Ben Shahn social realism",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O27_On_The_Waterfront.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O27_On_The_Waterfront.jpg"
+    },
+    {
+      "id": "O28",
+      "name": "Marty",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "A 1955 television recording, playing on a TV in a warm-coloured Bronx living room: scanlines, phosphor glow, a rounded bulging screen, snow — only Clawd in colour. The original was a live TV drama, so it is shot as television.",
+      "fit": "1950s TV kinescope recording",
+      "tags": [
+        "2D (B&W screen)"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O28_Marty.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O28_Marty.jpg"
+    },
+    {
+      "id": "O29",
+      "name": "Around the World in 80 Days",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "1950s flat geometric cartoon: colour blocks and ink lines misregistered in overprint, broken ink lines, crayon grain on cream paper. This film's 6-minute end-title animation is by Saul Bass — exactly this modernist drawing style.",
+      "fit": "1950s UPA modernist cartoon",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O29_Around_The_World_In_80_Days.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O29_Around_The_World_In_80_Days.jpg"
+    },
+    {
+      "id": "O30",
+      "name": "The Bridge on the River Kwai",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "A general-arrangement drawing pinned to a drawing board: white lines on Prussian blue, creases, water stains and red-pencil revisions. The film is about a colonel determined to finish his bridge, so the bridge is drawn as his engineering drawing.",
+      "fit": "Cyanotype engineering blueprint",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O30_The_Bridge_On_The_River_Kwai.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O30_The_Bridge_On_The_River_Kwai.jpg"
+    },
+    {
+      "id": "O31",
+      "name": "Gigi",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "Toulouse-Lautrec-style colour lithograph: big flat colour blocks, spattered white outlines, ink dots flicked on with a toothbrush instead of halftone, satirical caricature faces. Gigi's big moment is walking into Maxim's while all of Paris turns to stare — the Paris Lautrec painted.",
+      "fit": "Toulouse-Lautrec Belle Époque lithograph",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O31_Gigi.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O31_Gigi.jpg"
+    },
+    {
+      "id": "O32",
+      "name": "Ben-Hur",
+      "series": "O",
+      "category": "Widescreen 1950–1959",
+      "description": "A procedurally generated 3D great arena, widescreen epic light: desert sun, dust, marble and gold, Technicolor print colouring plus 65mm grain. The chariot race is the film's most famous sequence, so the race itself is shot, with the poster's golden colossus overhead.",
+      "fit": "3D great arena chariot race · 65mm epic",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O32_Ben_Hur.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O32_Ben_Hur.jpg"
+    },
+    {
+      "id": "O33",
+      "name": "The Apartment",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "Saul Bass-style white lines sliding in on black, building the film's most famous one-point-perspective endless office hall, then filled with grey tones. The film's titles were Bass's work; the only warm colour in the whole frame is Clawd and the key tag.",
+      "fit": "Saul Bass line title sequence · B&W",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O33_The_Apartment.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O33_The_Apartment.jpg"
+    },
+    {
+      "id": "O34",
+      "name": "West Side Story",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "An Upper West Side 3D block in red-orange Technicolor dusk, saturated and stage-like: red brick, zigzag fire escapes, rooftop water towers, dancer figures that can strike poses. Restaging the film's aerial opening, the Jets' finger-snapping, and the poster's leap.",
+      "fit": "Technicolor 3D stage",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O34_West_Side_Story.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O34_West_Side_Story.jpg"
+    },
+    {
+      "id": "O35",
+      "name": "Lawrence of Arabia",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "Epic poster gouache with visible brush direction, strong warm-cold contrast: amber desert against cobalt-blue sky. Lawrence of Arabia's original poster was painted exactly this way by Howard Terpning.",
+      "fit": "Terpning epic poster gouache",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O35_Lawrence_Of_Arabia.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O35_Lawrence_Of_Arabia.jpg"
+    },
+    {
+      "id": "O36",
+      "name": "Tom Jones",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "A Georgian satirical print: Hogarth-style etched lines that swell and thin, with directional hatching, brushed over with Rowlandson-style bright hand-colouring that spills slightly past the lines, plus one speech balloon. The film itself is imitating Hogarth's 18th-century England.",
+      "fit": "Hand-coloured satirical copper engraving",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O36_Tom_Jones.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O36_Tom_Jones.jpg"
+    },
+    {
+      "id": "O37",
+      "name": "My Fair Lady",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "Fast, dry-brushed ink lines, with pink and magenta watercolour washes and flicks, fading into the white paper around them. The 1964 original poster was Bob Peak's ink plus pink chalk; the setting is Cecil Beaton's black-and-white Ascot.",
+      "fit": "Bob Peak fashion illustration",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O37_My_Fair_Lady.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O37_My_Fair_Lady.jpg"
+    },
+    {
+      "id": "O38",
+      "name": "The Sound of Music",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "A picture-book 3D procedural Alps: saturated emerald green, cobalt blue and snow white, sculptural ridges, cotton-ball clouds, waves of grass rippling in the wind. Restaging the opening helicopter aerial, ending with Maria spinning on the mountaintop.",
+      "fit": "Picture-book 3D Alps aerial",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O38_The_Sound_Of_Music.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O38_The_Sound_Of_Music.jpg"
+    },
+    {
+      "id": "O39",
+      "name": "A Man for All Seasons",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "A classical old-master oil portrait: smooth glazing to model the form, a fur collar painted hair by hair, velvet highlights, a gold chain rendered link by link, plus aged varnish and craquelure. Holbein painted Thomas More himself in 1527 — his composition is used here.",
+      "fit": "Holbein Tudor oil portrait",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O39_A_Man_For_All_Seasons.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O39_A_Man_For_All_Seasons.jpg"
+    },
+    {
+      "id": "O40",
+      "name": "In the Heat of the Night",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "Three-colour Risograph print: deep blue, poster orange-red, fluorescent pink, with halftone dots, grain and misregistered overprint; the light is printed by using less ink. Echoing the 1967 poster's orange-red heatwave ground and black silhouettes.",
+      "fit": "Three-colour Risograph nightscape",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O40_In_The_Heat_Of_The_Night.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O40_In_The_Heat_Of_The_Night.jpg"
+    },
+    {
+      "id": "O41",
+      "name": "Oliver!",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "A Victorian toy paper theatre: hand-coloured lithographed card figures left with scissor-white edges, scenery slotted in layers on sliding rods, candle footlights beneath a gilded proscenium throwing shadows onto the flats. Oliver! is a musical — perfect for a Victorian family parlour stage.",
+      "fit": "Victorian toy paper theatre",
+      "tags": [
+        "2.5D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O41_Oliver.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O41_Oliver.jpg"
+    },
+    {
+      "id": "O42",
+      "name": "Midnight Cowboy",
+      "series": "O",
+      "category": "Swinging Sixties 1960–1969",
+      "description": "Warhol's photo silkscreen: a black halftone photo layer printed unevenly, misregistered over loose flat colour blocks, on a silver ground, the image repeated twice, three times. The film has a Warhol Factory-style party in it, and the Elvis he painted is a cowboy.",
+      "fit": "Warhol photo silkscreen · Double Elvis",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O42_Midnight_Cowboy.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O42_Midnight_Cowboy.jpg"
+    },
+    {
+      "id": "O43",
+      "name": "Patton",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "A lithograph in the manner of a 1940s US war-bond poster: graded flat folds, dark outlines, halftone shading, yellowed paper. It matches Patton's opening: the small general standing before a giant flag filling the stage, giving his address.",
+      "fit": "WWII war-bond lithograph poster",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O43_Patton.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O43_Patton.jpg"
+    },
+    {
+      "id": "O44",
+      "name": "The French Connection",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "A whole Brooklyn street beneath the elevated railway built in 3D, then graded to coarse 16mm grain: cold grey, shadows leaning blue, high contrast, gate weave. The film is most famous for its car chase under the el — only 3D can shoot that kind of speed.",
+      "fit": "Chase under the el · 16mm grain 3D",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O44_The_French_Connection.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O44_The_French_Connection.jpg"
+    },
+    {
+      "id": "O45",
+      "name": "The Godfather",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "An oil painting in deep amber and ochre-brown, warm only where the top light falls: the shadows are transparent thin glazes, the lit edges impasto. Recreating Gordon Willis's top light in the 'I believe in America' study.",
+      "fit": "Rembrandt top-light chiaroscuro oil painting",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O45_The_Godfather.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O45_The_Godfather.jpg"
+    },
+    {
+      "id": "O46",
+      "name": "The Sting",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "Magazine illustration in the Leyendecker-to-Rockwell line: block-lit forms, parallel strokes, crisp dark outlines. The film's chapter cards imitate Saturday Evening Post covers, and the 1936 betting hall is painted the same way.",
+      "fit": "Saturday Evening Post illustration",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O46_The_Sting.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O46_The_Sting.jpg"
+    },
+    {
+      "id": "O47",
+      "name": "The Godfather Part II",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "A turn-of-the-century toned silver photograph, hand-coloured: sepia tones, soft focus, silver grain, mildew spots, cracked corners, with faint red, blue and verdigris here and there. It shows young Vito arriving at Ellis Island in 1901, like Lewis Hine's photographs.",
+      "fit": "Hand-coloured sepia old photograph",
+      "tags": [
+        "2.5D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O47_The_Godfather_Part_II.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O47_The_Godfather_Part_II.jpg"
+    },
+    {
+      "id": "O48",
+      "name": "One Flew Over the Cuckoo's Nest",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "Quiet realism in the manner of Edward Hopper: big flat planes of pale green wall, hard-edged parallelograms of low morning light, people kept apart from one another. Exactly the ward in One Flew Over the Cuckoo's Nest: fluorescent-lit order, broken by one escape.",
+      "fit": "Hopper-style American realist oil painting",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O48_One_Flew_Over_The_Cuckoos_Nest.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O48_One_Flew_Over_The_Cuckoos_Nest.jpg"
+    },
+    {
+      "id": "O49",
+      "name": "Rocky",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "All of Philadelphia at dawn built in 3D, from the meat locker to the museum's 72 steps, graded to 1970s 35mm: cold blue sky, a low golden sun, long shadows, thin mist, fine grain. Running up the steps and the circling crane shot at the top are the film's signature moments.",
+      "fit": "Philadelphia steps sunrise 3D · 35mm grade",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O49_Rocky.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O49_Rocky.jpg"
+    },
+    {
+      "id": "O50",
+      "name": "Annie Hall",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "A New Yorker single-panel cartoon: lively pen ink lines, a few restrained watercolour washes, lots of white paper, a handwritten caption beneath the drawing. Woody Allen's comedy and the magazine are the same register, and the lobster scene is exactly a one-panel joke cartoon.",
+      "fit": "New Yorker single-panel cartoon · ink and wash",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O50_Annie_Hall.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O50_Annie_Hall.jpg"
+    },
+    {
+      "id": "O51",
+      "name": "The Deer Hunter",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "Andrew Wyeth-style egg tempera: dry, fine cross-hatched short strokes, low-saturation straw yellow, ochre brown and grey-green, each blade of grass drawn, a pale sky. Wyeth was a Pennsylvania painter, and the 'one shot' deer hunt takes place in the hills above a Pennsylvania steel town.",
+      "fit": "Andrew Wyeth egg tempera",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O51_The_Deer_Hunter.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O51_The_Deer_Hunter.jpg"
+    },
+    {
+      "id": "O52",
+      "name": "Kramer vs. Kramer",
+      "series": "O",
+      "category": "New Hollywood 1970–1979",
+      "description": "A kitchen drawn by a child in crayon: wobbly lines, colours pressed hard into the paper grain and over the edges, labels and arrows, a smiling sun. This is how Billy sees him and his dad making French toast.",
+      "fit": "Child's crayon drawing",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O52_Kramer_Vs_Kramer.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O52_Kramer_Vs_Kramer.jpg"
+    },
+    {
+      "id": "O53",
+      "name": "Ordinary People",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "Transparent watercolour in layered glazes: wet-on-wet sky and lake, tidemark edges, backruns, the white paper left as the highlights, autumn gold and rust red against cold grey-blue. It matches the film's opening — a quiet, slightly melancholy Lake Forest autumn.",
+      "fit": "Autumn transparent watercolour",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O53_Ordinary_People.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O53_Ordinary_People.jpg"
+    },
+    {
+      "id": "O54",
+      "name": "Chariots of Fire",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "A four-colour lithograph after Jean Droit's 1924 Paris Olympics poster: classical nudes, limited inks, clumped litho grain, uneven registration. Chariots of Fire is about the 1924 Olympics — the beach run looks like that poster coming alive.",
+      "fit": "1924 Paris Olympics lithograph poster",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O54_Chariots_Of_Fire.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O54_Chariots_Of_Fire.jpg"
+    },
+    {
+      "id": "O55",
+      "name": "Gandhi",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "A hand block print on cotton: indigo, madder red, turmeric yellow plus black carved outlines, misregistration at the block seams, the dye bleeding along the weave. Handspun khadi is Gandhi's symbol, so the Salt March is printed as a piece of cloth.",
+      "fit": "Rajasthani hand block print cloth",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O55_Gandhi.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O55_Gandhi.jpg"
+    },
+    {
+      "id": "O56",
+      "name": "Terms of Endearment",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "An open family album of faded Polaroids and Kodak snapshots: blue-shifted blacks, cream highlights, white borders. One Polaroid comes alive and becomes a tracking shot of the beach drive. Terms of Endearment is thirty years of mother and daughter.",
+      "fit": "Family album Polaroid",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O56_Terms_Of_Endearment.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O56_Terms_Of_Endearment.jpg"
+    },
+    {
+      "id": "O57",
+      "name": "Amadeus",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "Profile portraits cut from black paper and edged in gold, a horseshoe of gilded boxes and red velvet, facing a stage set with a starry sky. Amadeus's highlight is opening night — one frame holding the orchestra pit, the stage, the audience and Salieri in the dark.",
+      "fit": "Rococo silhouette · candlelit golden opera house",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O57_Amadeus.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O57_Amadeus.jpg"
+    },
+    {
+      "id": "O58",
+      "name": "Out of Africa",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "Real-time 3D low-altitude flying: a chrome-yellow biplane sweeping over a soda lake, tens of thousands of flamingos startled into the air, amber hazy light. The film is most remembered for Denys taking Karen flying over Kenya, and the hand she reaches back to the rear seat.",
+      "fit": "3D biplane over the East African Rift",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O58_Out_Of_Africa.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O58_Out_Of_Africa.jpg"
+    },
+    {
+      "id": "O59",
+      "name": "Platoon",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "Fast, forceful pen lines, watercolour washes in olive green, earth yellow, smoke grey and fire orange, sketchbook paper with white margins. Like a combat artist drawing on the spot — close to this film's view of Vietnam through a foot soldier's eyes.",
+      "fit": "Vietnam combat sketch · pen and wash",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O59_Platoon.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O59_Platoon.jpg"
+    },
+    {
+      "id": "O60",
+      "name": "The Last Emperor",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "Iron-wire lines on silk with layered renderings of azurite blue, malachite green, cinnabar and gold, palace architecture in ruled-line perspective, thousands of kneeling officials. The little emperor's enthronement is a Qing court ceremony, so it is painted the way Qing court painters recorded ceremonies.",
+      "fit": "Gongbi heavy colour · silk court painting",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O60_The_Last_Emperor.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O60_The_Last_Emperor.jpg"
+    },
+    {
+      "id": "O61",
+      "name": "Rain Man",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "Smooth airbrush gradients, hard-edged masks, chrome highlights and pink-green neon, overlaid with a thin layer of cyan counting annotations. 1980s style meets the world through Raymond's eyes: 82, 82, 82 — 246 toothpicks in all, plus card counting at the table.",
+      "fit": "1980s airbrush illustration + Raymond's counting",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O61_Rain_Man.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O61_Rain_Man.jpg"
+    },
+    {
+      "id": "O62",
+      "name": "Driving Miss Daisy",
+      "series": "O",
+      "category": "Blockbuster Era 1980–1989",
+      "description": "Solid, warm Rockwell realism: clean edges, visible brushwork, afternoon sun through the oak trees, neighbours each busy with their own thing. The film is two people in a car in 1950s Atlanta — a Saturday Evening Post cover in itself.",
+      "fit": "Rockwell-style oil illustration",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O62_Driving_Miss_Daisy.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O62_Driving_Miss_Daisy.jpg"
+    },
+    {
+      "id": "O63",
+      "name": "Dances with Wolves",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "A soldier's field diary: pencil lines that vary in weight, transparent watercolour, yellowed rag paper, iron-gall ink handwriting and pencil notes in the margins. Dunbar writes and draws in his diary throughout the film, so the prairie comes alive out of his sketches.",
+      "fit": "Dunbar's diary · pencil + transparent watercolour",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O63_Dances_With_Wolves.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O63_Dances_With_Wolves.jpg"
+    },
+    {
+      "id": "O64",
+      "name": "The Silence of the Lambs",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "Fine copperplate hatching and stipple, thinly hand-coloured, with plate numbers and Latin labels printed on yellowed paper. The death's-head moth on the poster belongs pinned to a specimen plate, and the same cool copperplate manner carries into Lecter's cell.",
+      "fit": "Hand-coloured natural-history copperplate",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O64_The_Silence_Of_The_Lambs.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O64_The_Silence_Of_The_Lambs.jpg"
+    },
+    {
+      "id": "O65",
+      "name": "Unforgiven",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "A thickly painted Western oil in two registers: Remington's golden-red sunset plains, and his later blue-green night scenes lit by warm yellow window light. Unforgiven opens and closes with a silhouette before a grave at sunset, and the showdown takes place in a rainy town at night.",
+      "fit": "Remington Western oil painting · sunset and rainy night",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O65_Unforgiven.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O65_Unforgiven.jpg"
+    },
+    {
+      "id": "O66",
+      "name": "Schindler's List",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "Cold grey, high-contrast black and white, coarse grain, highlights blooming; only the little girl's red coat and Clawd's orange have colour. Exactly Spielberg's device: the red coat and the Sabbath candle flames are the film's only colour.",
+      "fit": "B&W film · the only red coat",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O66_Schindlers_List.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O66_Schindlers_List.jpg"
+    },
+    {
+      "id": "O67",
+      "name": "Forrest Gump",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "Printed cards folded up in parallel, with white paper cores, grey board edges, shadows between the layers and shallow depth of field, set on a walnut desk. Forrest sits on a bench telling his life as a story — open a page and a chapter stands up.",
+      "fit": "Pop-up book · paper craft on a real desk",
+      "tags": [
+        "2.5D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O67_Forrest_Gump.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O67_Forrest_Gump.jpg"
+    },
+    {
+      "id": "O68",
+      "name": "Braveheart",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "A page from a medieval manuscript: burnished gold leaf with punched dots, lapis blue, vermilion, Gothic lettering, with a window-like battle miniature in the middle. Braveheart is a Scottish legend, and the closing cry of FREEDOM is made into a gilded initial.",
+      "fit": "Gilded manuscript · gold-leaf miniature",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O68_Braveheart.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O68_Braveheart.jpg"
+    },
+    {
+      "id": "O69",
+      "name": "The English Patient",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "Watercolour sketches pasted into an old book, interleaved with maps, photographs, notes and pressed flowers, in the amber-brown of the poster overall. Almásy's Herodotus, stuffed with drawings and notes, is the whole film's frame — the camera travels through one watercolour into the Cave of Swimmers.",
+      "fit": "Explorer's scrapbook watercolour",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O69_The_English_Patient.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O69_The_English_Patient.jpg"
+    },
+    {
+      "id": "O70",
+      "name": "Titanic",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "White lines on Prussian-blue blueprint paper rise up and grow perspective, then develop into a full-colour 3D ship at sunset, running on into the night. The ship itself is the film's emblem, so the shipyard drawing and the live-action scene use the same model.",
+      "fit": "Blueprint developing into 3D live action",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O70_Titanic.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O70_Titanic.jpg"
+    },
+    {
+      "id": "O71",
+      "name": "Shakespeare in Love",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "An Elizabethan court miniature after Nicholas Hilliard: opaque watercolour on vellum, an ultramarine ground, shell-gold lettering, white wild roses. The film is set in Shakespeare's London, and the miniature is the portrait form of that very court.",
+      "fit": "Hilliard Elizabethan miniature",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O71_Shakespeare_In_Love.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O71_Shakespeare_In_Love.jpg"
+    },
+    {
+      "id": "O72",
+      "name": "American Beauty",
+      "series": "O",
+      "category": "Fin de Siècle 1990–1999",
+      "description": "Two pictures cut together: first a clean, saturated, frontal, symmetrical suburban house (red door, red roses), then a cut to low-resolution DV footage with a REC interface. It matches the film's Lester's respectable suburb and the plastic-bag footage Ricky shot.",
+      "fit": "Symmetrical suburban film frame + DV footage",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O72_American_Beauty.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O72_American_Beauty.jpg"
+    },
+    {
+      "id": "O73",
+      "name": "Gladiator",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "The whole picture laid in square stone and glass tesserae: the stones along the outlines follow the forms, the flat areas run in straight rows, and the gold-leaf glass pieces glint. The film is set in Rome, so the Colosseum and the Elysian wheat field are both made as Roman floor mosaics.",
+      "fit": "Roman floor mosaic",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O73_Gladiator.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O73_Gladiator.jpg"
+    },
+    {
+      "id": "O74",
+      "name": "A Beautiful Mind",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "Handwritten mathematics on two surfaces: white grease pencil on the Gothic library's window glass, chalk on a blackboard, the numbers lighting up and joined by gold lines. This is how Nash sees patterns in the film: light in his mind, not a computer interface.",
+      "fit": "Window formulas and blackboard chalk + gold lines",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O74_A_Beautiful_Mind.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O74_A_Beautiful_Mind.jpg"
+    },
+    {
+      "id": "O75",
+      "name": "Chicago",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "A black stage cut open by hard-edged spotlights: silhouettes of the women prisoners edged in red in six cells, a neon C behind, sequins and smoke, Clawd in a white follow spot. This is the film's 'Cell Block Tango', in the poster's red and black.",
+      "fit": "Fosse stage: red-and-black spotlight silhouettes",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O75_Chicago.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O75_Chicago.jpg"
+    },
+    {
+      "id": "O76",
+      "name": "The Lord of the Rings: The Return of the King",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "Soft watercolour-and-pencil landscapes with deep aerial perspective, plus an ink-line map on parchment. The film's concept art was painted by Alan Lee and John Howe, so the journey is told as the trilogy was first drawn.",
+      "fit": "Alan Lee-style watercolour + Tolkien map",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O76_The_Lord_Of_The_Rings_The_Return_Of_The_King.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O76_The_Lord_Of_The_Rings_The_Return_Of_The_King.jpg"
+    },
+    {
+      "id": "O77",
+      "name": "Million Dollar Baby",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "An original 16-bit arcade fighting game: health bars, round timer, ROUND 1 / FIGHT!, combo counts, hit-stop and a huge K.O. A film about a championship boxing match, played out as one round in arcade grammar.",
+      "fit": "16-bit pixel fighting game",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O77_Million_Dollar_Baby.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O77_Million_Dollar_Baby.jpg"
+    },
+    {
+      "id": "O78",
+      "name": "Crash",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "A finely rendered night photograph drawn in code: white and red car-light trails on the interchange, sodium orange against neon cyan, wet-road reflections, bokeh, and snow visible only in the light. Crash ends on a rare Los Angeles snowfall.",
+      "fit": "LA night light trails + falling snow",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O78_Crash.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O78_Crash.jpg"
+    },
+    {
+      "id": "O79",
+      "name": "The Departed",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "Flat multi-layer spray-paint stencils, with spray feathered edges and drips, paint eaten into the brick joints, and a torn pasted poster beside them. The Departed's last shot is a rat crossing the rail beneath the State House's golden dome, and street stencil graffiti has always loved painting rats.",
+      "fit": "Boston red-brick wall stencil graffiti",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O79_The_Departed.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O79_The_Departed.jpg"
+    },
+    {
+      "id": "O80",
+      "name": "No Country for Old Men",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "Real-time 3D West Texas dusk wasteland: the sun pressed to the horizon, long shadows pointing at the camera, desaturated earth yellow and grey-green, fine grain. Shot in the light Deakins made for the Coen brothers, and the man carrying the case backlit on the poster.",
+      "fit": "3D West Texas dusk wasteland (Deakins light)",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O80_No_Country_For_Old_Men.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O80_No_Country_For_Old_Men.jpg"
+    },
+    {
+      "id": "O81",
+      "name": "Slumdog Millionaire",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "A TV quiz-show studio in blue-violet with gold highlights, moving-head light beams, lens flares; then a cut to saturated orange-teal Mumbai rooftops. The film itself cuts back and forth between the quiz show's final question and the slum Jamal comes from.",
+      "fit": "Quiz-show studio + Mumbai orange-teal",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O81_Slumdog_Millionaire.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O81_Slumdog_Millionaire.jpg"
+    },
+    {
+      "id": "O82",
+      "name": "The Hurt Locker",
+      "series": "O",
+      "category": "New Millennium 2000–2009",
+      "description": "A page from a US Army EOD manual: even black lines, hatched shadows, stippled sand, circled numbers and leader lines, an IED exploded view, with just a touch of olive green and sand. The Hurt Locker is about procedure under pressure — the manual drawing is the procedure drawn out.",
+      "fit": "EOD field-manual line drawing",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O82_The_Hurt_Locker.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O82_The_Hurt_Locker.jpg"
+    },
+    {
+      "id": "O83",
+      "name": "The King's Speech",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "An interior with heavy oil-paint wall texture: the cold grey-green, many-layered peeling wall of Logue's consulting room, then the amber-gold padded broadcast room, a spring-suspended microphone and thin gold sound waves. After Eve Stewart's walls and the poster's gold.",
+      "fit": "Peeling wall + golden broadcast room",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O83_The_Kings_Speech.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O83_The_Kings_Speech.jpg"
+    },
+    {
+      "id": "O84",
+      "name": "The Artist",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "Clean, bright black and white: bright highlights, gentle grey scale, Art Deco-bordered title cards, a slight flicker and grain; Clawd is the only colour. The Artist is a 2011 love letter to silent Hollywood, so it is more refined than the first entry.",
+      "fit": "2011 polished silent-film B&W",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O84_The_Artist.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O84_The_Artist.jpg"
+    },
+    {
+      "id": "O85",
+      "name": "Argo",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "A 1970s Jack Kirby comic spread out on a producer's desk: thick ink lines, Kirby energy bubbles, four-colour Ben-Day dots on yellowed newsprint. The film's fake sci-fi movie used Kirby's own concept art, so the comic flips from the fake epic all the way to the real runway escape.",
+      "fit": "Jack Kirby 1970s comic page",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O85_Argo.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O85_Argo.jpg"
+    },
+    {
+      "id": "O86",
+      "name": "12 Years a Slave",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "An 1850s daguerreotype in a copper-framed velvet case, developing out of blankness: a violin leaning against a chair, Clawd standing beside it with its head bowed. This is the photography of Solomon Northup's era — one object tells the film, no people drawn.",
+      "fit": "Daguerreotype developing",
+      "tags": [
+        "2D·B&W"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O86_12_Years_A_Slave.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O86_12_Years_A_Slave.jpg"
+    },
+    {
+      "id": "O87",
+      "name": "Birdman",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "A detailed 3D Broadway theatre backstage, shot with a handheld long take: warm tungsten light against cold fluorescent light, ending in the blazing light of Times Square. Birdman's most famous trick is pretending to be one continuous shot, so the sequence's style is that camera move.",
+      "fit": "3D backstage corridor long take",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O87_Birdman.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O87_Birdman.jpg"
+    },
+    {
+      "id": "O88",
+      "name": "Spotlight",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "A picture printed in newspaper halftone, set on the grey-green screen of a microfiche reader: scanlines, a rolling scan band of light, dust on the glass. The film's reporters dig the truth out of exactly this kind of archive, and the shot changes are made as the film slides sideways in the reader.",
+      "fit": "Microfiche reader · newspaper halftone",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O88_Spotlight.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O88_Spotlight.jpg"
+    },
+    {
+      "id": "O89",
+      "name": "Moonlight",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "Full teal, magenta and moonlight-blue oil portraits, sculpted heads repainted with strokes that follow the forms. Painted straight from the film's line — 'In moonlight, black boys look blue.'",
+      "fit": "Moonlight-blue oil portrait",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O89_Moonlight.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O89_Moonlight.jpg"
+    },
+    {
+      "id": "O90",
+      "name": "The Shape of Water",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "Real-time 3D flooded bathroom and laboratory tank, everything immersed in teal-green: flowing caustics, beams of light falling from above, bubbles and a few warm lamps. Del Toro's film is soaked in exactly this water, so the whole sequence is shot underwater.",
+      "fit": "3D underwater teal caustics",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O90_The_Shape_Of_Water.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O90_The_Shape_Of_Water.jpg"
+    },
+    {
+      "id": "O91",
+      "name": "Green Book",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "A 'Greetings from the South' linen-texture postcard come alive: linen paper, saturated airbrushed colours, star-shaped glints on the chrome. The film is a 1962 road trip across the American South — exactly the road on postcards like this.",
+      "fit": "1960s linen-texture postcard",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O91_Green_Book.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O91_Green_Book.jpg"
+    },
+    {
+      "id": "O92",
+      "name": "Parasite",
+      "series": "O",
+      "category": "Indie Era 2010–2019",
+      "description": "An architectural section cut through a Seoul hillside: the glass mansion on top, the secret bunker underground, all the way down to the flooded semi-basement, thin lines, soft material colours. Parasite is built on this up-and-down class divide — one drawing holds the whole film.",
+      "fit": "Architectural section axonometric",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O92_Parasite.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O92_Parasite.jpg"
+    },
+    {
+      "id": "O93",
+      "name": "Nomadland",
+      "series": "O",
+      "category": "Right Now 2020–2025",
+      "description": "Chalk-pastel strokes on grey-violet paper, one wide plain and an old RV, the sky shifting from gold to rose to violet. Nomadland lives on that long, empty horizon at dusk, and the pastel makes it quiet and soft.",
+      "fit": "Magic-hour pastel drawing",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O93_Nomadland.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O93_Nomadland.jpg"
+    },
+    {
+      "id": "O94",
+      "name": "CODA",
+      "series": "O",
+      "category": "Right Now 2020–2025",
+      "description": "A polished sperm-whale tooth on an oak table, engraved with fine black lines and touched with red, blue and yellow: the Gloucester fishing boat, the family hauling in the nets, Ruby singing at the bow. This is the folk craft of the film's own New England coast.",
+      "fit": "Scrimshaw whale-tooth carving",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O94_CODA.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O94_CODA.jpg"
+    },
+    {
+      "id": "O95",
+      "name": "Everything Everywhere All at Once",
+      "series": "O",
+      "category": "Right Now 2020–2025",
+      "description": "Four universes, four drawing styles, all real-time raymarching: the cold-green IRS, the hot-dog-finger piano under advertising light, the silent canyon of googly-eyed rocks, the everything bagel turned black hole. Just like the film, the googly-eye stickers jump between universes.",
+      "fit": "Raymarched multiverse jump cuts",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O95_Everything_Everywhere_All_At_Once.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O95_Everything_Everywhere_All_At_Once.jpg"
+    },
+    {
+      "id": "O96",
+      "name": "Oppenheimer",
+      "series": "O",
+      "category": "Right Now 2020–2025",
+      "description": "A real-time 3D reconstruction of the Trinity test site before dawn: a fireball of about 720,000 particles, quantum visions of orbits and waves, deep-blue night against orange-gold firelight, plus IMAX-style grain. Oppenheimer revolves around this one light.",
+      "fit": "3D particle fireball · IMAX grain",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O96_Oppenheimer.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O96_Oppenheimer.jpg"
+    },
+    {
+      "id": "O97",
+      "name": "Anora",
+      "series": "O",
+      "category": "Right Now 2020–2025",
+      "description": "Pink, cyan and orange neon tubes glowing, their reflections dragging across the wet boardwalk and falling into the snow, with bloom, out-of-focus bokeh and grain. Anora walks from the Russian neon of Brighton Beach to the Vegas wedding signs — the whole sequence is lit by the tubes.",
+      "fit": "Snowy-night neon",
+      "tags": [
+        "2D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O97_Anora.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O97_Anora.jpg"
+    },
+    {
+      "id": "O98",
+      "name": "One Battle After Another",
+      "series": "O",
+      "category": "Right Now 2020–2025",
+      "description": "Real-time 3D desert highway, rising and falling like a roller coaster, three cars chasing over slope after slope, shot on a super-telephoto with heat haze, bleached glare and fine grain. Recreating the film's most famous sequence: the undulating highway chase.",
+      "fit": "3D undulating highway chase · telephoto compression",
+      "tags": [
+        "3D"
+      ],
+      "file": "assets/library/style-prompts/O_Oscar_98_Films/O98_One_Battle_After_Another.md",
+      "image": "assets/library/style-prompts/O_Oscar_98_Films/O98_One_Battle_After_Another.jpg"
+    }
+  ]
+}

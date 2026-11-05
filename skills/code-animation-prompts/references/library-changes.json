@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "69ccbeaf0b821591a40936572c2f559d8f4cfb68",
+  "upstream": "https://github.com/XiaoyeCodes/code-animation-prompts",
+  "translation": {
+    "description": "English translation of the 341-style code-animation prompt pack, from the Chinese upstream (XiaoyeCodes/code-animation-prompts) into this fork (GiorMalik/Animations-Prompt).",
+    "scope": "All 341 style prompts, the core docs (README, SKILL.md, INSTALL.md, CONTRIBUTING.md, LICENSE.md), the library notes (about.md, license-and-sources.md, attribution.md), the picker (style-picker.html) and its embedded data, the catalog (references/catalog.json), the style index (docs/STYLES.md), the install/validation/build scripts, and the file and folder names under assets/library (style prompts, examples, screenshots). Prompts were translated from Chinese; example on-screen text is now English. The two B6 example HTML files keep their original code and behaviour; only their on-screen strings and code comments were translated (work title, subtitle line, and the curator credit, romanised as Fuyang Guanzhao).",
+    "exceptions": [
+      "The 家 glyph in B3's {{default: 家}} placeholder is kept on purpose: it is the character drawn in the artwork itself.",
+      "The 囍 glyph in Z5_Paper_Cutting.md is kept on purpose: it is the character to be cut out of the paper.",
+      "The Bilibili curator's proper name 俯仰观照 is kept in LICENSE.md and attribution.md."
+    ],
+    "baseline": "docs/source-manifest.json now records the SHA-256 hashes of the translated file set (558 files under skills/code-animation-prompts/assets/library/), replacing the upstream Chinese baseline. There are no further modifications relative to this translated baseline, so \"modified\" and \"added\" below are empty."
+  },
+  "contributions": {
+    "translation-en": {
+      "author": "GiorMalik",
+      "url": "https://github.com/GiorMalik/Animations-Prompt",
+      "description": "Full English translation of the 341-style prompt pack and its docs, scripts, picker, catalog, and file names, from the Chinese upstream."
+    },
+    "pr-1": {
+      "author": "Strange Leo (@strangeyu911-tech)",
+      "url": "https://github.com/XiaoyeCodes/code-animation-prompts/pull/1",
+      "commit": "b8e54537a39154126d5be43c3dd43c2b02d4fc61",
+      "description": "K1/K2/K3 community reference info cards; the author says they were drawn as SVG, but the PR only included the JPEGs, without the SVG source files."
+    }
+  },
+  "modified": {},
+  "added": {}
+}

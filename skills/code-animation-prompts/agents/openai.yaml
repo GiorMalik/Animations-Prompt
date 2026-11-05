@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Animation · 341 Styles"
+  short_description: "Pick a visual language from 341 styles and make editable code animations and videos"
+  default_prompt: "Use $code-animation-prompts to pick a style that fits my content and make an editable code animation."
